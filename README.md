@@ -1,37 +1,51 @@
-## Welcome to GitHub Pages
+<head>
+    <meta property='og:image' content='{{site.url}}/{{page.image}}'/>
+    <meta property='og:type' content='website' />
+</head>
 
-You can use the [editor on GitHub](https://github.com/CC-MNNIT/2020-21-Classes/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+# MNNIT-Computer-Club
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+This repository contains the codes, support links and other relevant materials for every class under Computer Club, MNNIT Allahabad,Prayagraj.
 
-### Markdown
+This repository is only open for PRs by CC-MNNIT-admins/members (hereafter called CC-Admins). Please DO NOT make a PR otherwise.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+## Table of Contents
 
-# Header 1
-## Header 2
-### Header 3
+- [MNNIT-Computer-Club](#mnnit-computer-club)
+  - [Table of Contents](#table-of-contents)
+  - [About](#about)
+  - [Resources](#resources)
+  - [Announcements](#announcements)
+  - [Contribute](#contribute)
+  - [Contributors](#contributors)
+  - [Contact](#contact)
 
-- Bulleted
-- List
+## About
 
-1. Numbered
-2. List
+We are an educational club at Motilal Nehru National Institute Of Technology, Allahabad ,Prayagraj an Institute of National Importance. MNNIT Computer Club as we call it is a official student organisation under Student Activity Centre (SAC) of our college.
 
-**Bold** and _Italic_ and `Code` text
+We host several events in the domain of Computer Science And Engineering for which we also conduct classes on regular basis. Students from various courses actively participate in these events and classes throughout the year.
 
-[Link](url) and ![Image](src)
-```
+Join our fb group for classes schedule and other details.
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+## Resources
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/CC-MNNIT/2020-21-Classes/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
+## Announcements
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+
+
+## Contribute
+
+Follow the [contribution guide](https://github.com/CC-MNNIT/2018-19-Classes/blob/master/.github/CONTRIBUTING.md). Add the class folder link in README.md
+
+## Contributors
+
+* [Arsh Singh](https://github.com/iosdev474)
+* [Anuj Modi](https://github.com/descifrado)
+
+## Contact
+
+We love to hear out suggestions. Reach out to us at <strong>computer.club@mnnit.ac.in</strong>
