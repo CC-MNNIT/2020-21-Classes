@@ -1,5 +1,5 @@
 # Git Class - I
-#### February 27th, 2019
+#### August 29th, 2020
 
 *   ##### What is Version Control System(VCS)?
     *    Version Control is a system which records changes to a file or set of files over time so that you can recall specific changes/versions at a later stage.
