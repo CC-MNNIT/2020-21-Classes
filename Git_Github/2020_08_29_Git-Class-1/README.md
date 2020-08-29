@@ -1,4 +1,4 @@
-# Git and Github Class - I
+# Git Class - I
 #### February 27th, 2019
 
 *   ##### What is Version Control System(VCS)?
@@ -155,6 +155,11 @@ Actually different operating system have different ways to simulate the end of f
     *   Usage:
         *   mkdir [path to directory]
         *   example: mkdir C:\Users\Bucky\Desktop\test
+
+
+#### Further Readings:
+
+[Git Resource](https://try.github.io/)
 
 #### Contact Us:
 <Table>
