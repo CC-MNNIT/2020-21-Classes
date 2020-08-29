@@ -1,4 +1,8 @@
-# Web Foundations
+# WebSter Class-1
+
+#### August 29th 2020
+
+#### Web Foundations
 
 Some useful starting questions:
 
@@ -8,7 +12,7 @@ Some useful starting questions:
 
 [Some common questions about web](https://developer.mozilla.org/en-US/docs/Learn/Common_questions)
 
-# Debugging
+#### Debugging
 
 Learn about some debugging tools used in web development:
 
@@ -16,8 +20,15 @@ Learn about some debugging tools used in web development:
 
 [Article on how to debug using Chrome dev tools and VS Code](https://www.digitalocean.com/community/tutorials/how-to-debug-javascript-with-google-chrome-devtools-and-visual-studio-code)
 
-# Download links
+#### Download links
 
 [Visual Studio Code](https://code.visualstudio.com/Download)
 
 [Node JS](https://nodejs.org/en/download/)
+
+
+#### Class Material
+
+[Web Foundation PPT](https://github.com/CC-MNNIT/2020-21-Classes/blob/master/Web_Development(Webster)/2020_08_29_Webster-Class-1/WebFoundation.pdf)
+
+[Debugging PPT](https://github.com/CC-MNNIT/2020-21-Classes/blob/master/Web_Development(Webster)/2020_08_29_Webster-Class-1/Debugging.pdf)
