@@ -12,7 +12,7 @@ This repository is only open for PRs by CC-MNNIT-admins/members (hereafter calle
 
 ## Table of Contents
 
-- [MNNIT-Computer-Club](#mnnit-computer-club)
+- [MNNIT-Computer-Club](https://www.facebook.com/groups/ccqueries/)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Resources](#resources)
