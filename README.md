@@ -37,7 +37,10 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 
 ## Announcements
 
+## Previous Years Resources
 
+- [CC-MNNIT-2018-19](https://github.com/CC-MNNIT/2018-19-Classes)
+- [CC-MNNIT-2019-20](https://github.com/CC-MNNIT/2019-20-Classes)
 
 ## Contribute
 
