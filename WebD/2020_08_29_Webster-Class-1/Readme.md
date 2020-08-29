@@ -29,6 +29,6 @@
 
 * #### Class Material
 
-  * [Web Foundation PPT](https://github.com/CC-MNNIT/2020-21-Classes/blob/master/Web_Development(Webster)/2020_08_29_Webster-Class-1/WebFoundation.pdf)
+  * [Web Foundation PPT](./WebFoundation.pdf)
 
-  * [Debugging PPT](https://github.com/CC-MNNIT/2020-21-Classes/blob/master/Web_Development(Webster)/2020_08_29_Webster-Class-1/Debugging.pdf)
+  * [Debugging PPT](./Debugging.pdf)
