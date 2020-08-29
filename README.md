@@ -3,7 +3,7 @@
     <meta property='og:type' content='website' />
 </head>
 
-# MNNIT-Computer-Club
+# MNNIT-Computer-Coding-Club
 
 This repository contains the codes, support links and other relevant materials for every class under Computer Coding Club, MNNIT Allahabad,Prayagraj.
 
@@ -12,7 +12,7 @@ This repository is only open for PRs by CC-MNNIT-admins/members (hereafter calle
 
 ## Table of Contents
 
-- [MNNIT-Computer-Club](https://www.facebook.com/groups/ccqueries/)
+- [MNNIT-Computer-Coding-Club](#mnnit-computer-coding-club)
   - [Table of Contents](#table-of-contents)
   - [About](#about)
   - [Resources](#resources)
@@ -27,7 +27,7 @@ We are an educational club at Motilal Nehru National Institute Of Technology, Al
 
 We host several events in the domain of Computer Science And Engineering for which we also conduct classes on regular basis. Students from various courses actively participate in these events and classes throughout the year.
 
-Join our fb group [MNNIT CC Quries](https://www.facebook.com/groups/ccqueries/) for classes schedule and other details.
+Join our fb group [MNNIT CC Queries](https://www.facebook.com/groups/ccqueries/) for classes schedule and other details.
 If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official](https://bit.ly/ccqueriesteam)
 
 ## Resources
