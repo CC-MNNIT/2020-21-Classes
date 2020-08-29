@@ -34,6 +34,9 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 
 - Git And Github
 	- [Git Class - 1](Git_Github/2020_08_29_Git-Class-1)
+	
+- Web Development
+	- [Webster Class -1](Web_Development(Webster)/2020_08_29_Webster-Class-1)
 
 ## Announcements
 
