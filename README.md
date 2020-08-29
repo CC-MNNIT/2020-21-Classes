@@ -39,7 +39,7 @@ Join our fb group for classes schedule and other details.
 
 ## Contribute
 
-Follow the [contribution guide](https://github.com/CC-MNNIT/2018-19-Classes/blob/master/.github/CONTRIBUTING.md). Add the class folder link in README.md
+Follow the [contribution guide](https://github.com/CC-MNNIT/2020-21-Classes/blob/master/contributor_guide.md). Add the class folder link in README.md
 
 ## Contributors
 
