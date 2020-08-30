@@ -35,13 +35,13 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 - Git And Github
 	- [Git Class - 1](Git_Github/2020_08_29_Git-Class-1)
 	
-
+<br>
 - Web Development
 	- [Webster Class -1](WebD/2020_08_29_Webster-Class-1)
 
-
+<br>
 - Class Recordings
-	You can access all the class recordings held on MS Teams through this shared folder on google drive.
+	- You can access all the class recordings held on MS Teams through this shared folder on google drive.
 	- [Drive Link](https://drive.google.com/drive/folders/1VKNH9mT945nq6hFZDk9kSN4ibQhWfj_L?usp=sharing)
 
 ## Announcements
