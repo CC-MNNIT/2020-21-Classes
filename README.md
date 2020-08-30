@@ -38,6 +38,9 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 - Web Development
 	- [Webster Class -1](WebD/2020_08_29_Webster-Class-1)  <br/>
 
+- Competitve Coding
+    - [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)    <br/>
+
 - Class Recordings
 	- You can access all the class recordings held on MS Teams through this [Drive Link](https://drive.google.com/drive/folders/1VKNH9mT945nq6hFZDk9kSN4ibQhWfj_L?usp=sharing)  
 
