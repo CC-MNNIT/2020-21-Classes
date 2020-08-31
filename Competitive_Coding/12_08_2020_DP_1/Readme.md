@@ -3,12 +3,8 @@
 
 ## Tutorials
 
-- [Fibonacci Problem](https://www.spoj.com/problems/FIBEZ/)
-- [Fibonacci PPT](./FIBEZ_SPOJ.pptx)
-- [FARIDA Problem](https://www.spoj.com/problems/FARIDA/)
-- [FARIDA PPT](./FARIDA_SPOJ.pptx)
-- [0-1 Knapsack Problem](https://www.geeksforgeeks.org/0-1-knapsack-problem-dp-10/)
-- [Knapsack PPT](./Knapsack_DP.pptx)
+- [CoinChange](https://www.geeksforgeeks.org/coin-change-dp-7/)
+- [MinCostPath](https://www.geeksforgeeks.org/min-cost-path-dp-6/)
 
 ## Questions
 - [MISERMAN](http://www.spoj.com/problems/MISERMAN/)
