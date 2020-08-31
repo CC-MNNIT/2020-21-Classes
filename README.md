@@ -39,6 +39,9 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Webster Class -1](WebD/2020_08_29_Webster-Class-1)  <br/>
 
 - Competitve Coding
+    - [Common Resource](Competitive_Coding)
+    - [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)    <br/>
+    - [DP Class - 1](Competitive_Coding/12_08_2020_DP_1)    <br/>
     - [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)    <br/>
 
 - Class Recordings
@@ -60,6 +63,7 @@ Follow the [contribution guide](https://github.com/CC-MNNIT/2020-21-Classes/blob
 * [Arsh Singh](https://github.com/iosdev474)
 * [Anuj Modi](https://github.com/descifrado)
 * [Vivek Rathi](https://github.com/vivekrathi53)
+* [Gaurav Katare](https://github.com/GauravKatare)
 
 ## Contact
 
