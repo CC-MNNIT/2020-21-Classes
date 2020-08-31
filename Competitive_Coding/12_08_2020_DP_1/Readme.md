@@ -11,9 +11,8 @@
 - [Knapsack PPT](./Knapsack_DP.pptx)
 
 ## Questions
-- [WACHOVIA](https://www.spoj.com/problems/WACHOVIA/)
 - [MISERMAN](http://www.spoj.com/problems/MISERMAN/)
-- [SCUBADIV](https://www.spoj.com/problems/SCUBADIV/)
-- [AIBOHP](https://www.spoj.com/problems/AIBOHP/)
-- [Knapsack1](https://atcoder.jp/contests/dp/tasks/dp_d/)
-- [Knapsack2](https://atcoder.jp/contests/dp/tasks/dp_e/)
+- [COINS](https://www.spoj.com/problems/COINS/)
+- [ACODE](https://www.spoj.com/problems/ACODE/)
+- [TWENDS](https://www.spoj.com/problems/TWENDS/)
+- [EELCS](https://www.spoj.com/problems/EELCS/)
