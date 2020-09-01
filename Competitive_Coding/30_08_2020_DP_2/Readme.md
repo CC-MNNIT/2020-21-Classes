@@ -1,8 +1,8 @@
 # Study Materials
-
+- [Class Recording](https://drive.google.com/file/d/1o5f65F8O3O-SHKohJJ82Z5G5fnHL8e2-/view?usp=sharing)
 
 ## Tutorials
-
+- [AtcoderDP](https://atcoder.jp/contests/dp/tasks)
 - [Fibonacci Problem](https://www.spoj.com/problems/FIBEZ/)
 - [Fibonacci PPT](./FIBEZ_SPOJ.pptx)
 - [FARIDA Problem](https://www.spoj.com/problems/FARIDA/)
