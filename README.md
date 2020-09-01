@@ -33,13 +33,17 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 ## Resources
 
 - Git And Github
-	- [Git Class - 1](Git_Github/2020_08_29_Git-Class-1)  <br/>
+	- [Git Class - 1](Git_Github/2020_08_29_Git-Class-1)
 	
 - Web Development
-	- [Webster Class -1](WebD/2020_08_29_Webster-Class-1)  <br/>
+	- [Webster Class -1](WebD/2020_08_29_Webster-Class-1)
+	- [Installation Guide](WebD/Installation%20Guide.pdf)
 
 - Competitve Coding
-    - [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)    <br/>
+    - [Common Resource](Competitive_Coding)
+    - [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)
+    - [DP Class - 1](Competitive_Coding/12_08_2020_DP_1)
+    - [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)
 
 - Class Recordings
 	- You can access all the class recordings held on MS Teams through this [Drive Link](https://drive.google.com/drive/folders/1VKNH9mT945nq6hFZDk9kSN4ibQhWfj_L?usp=sharing)  
@@ -60,6 +64,7 @@ Follow the [contribution guide](https://github.com/CC-MNNIT/2020-21-Classes/blob
 * [Arsh Singh](https://github.com/iosdev474)
 * [Anuj Modi](https://github.com/descifrado)
 * [Vivek Rathi](https://github.com/vivekrathi53)
+* [Gaurav Katare](https://github.com/GauravKatare)
 
 ## Contact
 

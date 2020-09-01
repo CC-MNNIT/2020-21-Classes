@@ -13,6 +13,7 @@
 ## Questions
 - [WACHOVIA](https://www.spoj.com/problems/WACHOVIA/)
 - [MISERMAN](http://www.spoj.com/problems/MISERMAN/)
-- [COINS](https://www.spoj.com/problems/COINS/)
-- [ACODE](https://www.spoj.com/problems/ACODE/)
-- [TWENDS](https://www.spoj.com/problems/TWENDS/)
+- [SCUBADIV](https://www.spoj.com/problems/SCUBADIV/)
+- [AIBOHP](https://www.spoj.com/problems/AIBOHP/)
+- [Knapsack1](https://atcoder.jp/contests/dp/tasks/dp_d/)
+- [Knapsack2](https://atcoder.jp/contests/dp/tasks/dp_e/)
