@@ -2,7 +2,7 @@
 
 August 30th, 2020
 
-### Class Recordings: [Here](https://drive.google.com/file/d/1VS0Tsb3la-R3M7vuUqrM1ota61drBkgo/view?usp=sharing)
+### Git Class 2 Recording: [Here](https://drive.google.com/file/d/1VS0Tsb3la-R3M7vuUqrM1ota61drBkgo/view?usp=sharing)
 
 ### Git diff
 
