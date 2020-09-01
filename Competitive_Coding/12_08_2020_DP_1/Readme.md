@@ -2,7 +2,9 @@
 
 
 ## Tutorials
-
+- [AtcoderDP](https://atcoder.jp/contests/dp/tasks)
+- [CoinChange PDF](./Coinchange.pdf)
+- [GridProblem PDF](./Grid_Problem.pdf)
 - [CoinChange](https://www.geeksforgeeks.org/coin-change-dp-7/)
 - [MinCostPath](https://www.geeksforgeeks.org/min-cost-path-dp-6/)
 
