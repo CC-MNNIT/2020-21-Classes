@@ -48,7 +48,7 @@ List of some useful Java Swing resources to begin with -
 
 For any doubt related to this event feel free to contact Coordinators.
 
-* [Shrey Pandey](https://www.facebook.com/moonknight2076/) [Github](https://github.com/ShreyPandey)
+* [Shrey Pandey](https://github.com/ShreyPandey) [(Facebook)](https://www.facebook.com/moonknight2076/)
 * [Anuj Modi](https://www.facebook.com/anuj.descifrado)
 * [Arsh Singh](https://github.com/iosdev474)
 * [Nitish Gupta](https://www.facebook.com/nitishmnnit)
