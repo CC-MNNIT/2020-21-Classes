@@ -14,7 +14,7 @@
 
 - [Amazing Intro to Neural Network](https://www.youtube.com/watch?v=aircAruvnKk&list=PL_h2yd2CGtBHEKwEH5iqTZH85wLS-eUzv)
 
-- [Dataset For First Class]
+- [Dataset For First Class](housing.zip)
 
 ### Why is most data gausian
     The doubt was as to why machine learning models don’t perform well on data whose distribution is not gaussian. And we told you that real-world data has gaussian distribution, which is wrong. The variable can have any distribution and as to why data is normally distributed. Notice the different words, data we have  and variable.  Another information was that ML models were built keeping that fact in mind, and that is why they don’t perform on data that is not gaussian distributed.I will clarify why is that. For this, we need to know about the central distribution theorem, distributions and samples.
