@@ -48,6 +48,8 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
     
 - Placements and Internships
 	- [Guide to Placement](Placements)
+	
+- For Academic Resources refer to [Shaurya Kumar's Guide](https://shauryashares.weebly.com/)
 
 - Class Recordings
 	- You can access all the class recordings held on MS Teams through this [Drive Link](https://drive.google.com/drive/folders/1VKNH9mT945nq6hFZDk9kSN4ibQhWfj_L?usp=sharing)  
