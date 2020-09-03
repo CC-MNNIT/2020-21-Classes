@@ -10,7 +10,7 @@
 - Class defines a new data type. Once defined, this new type can be used to create objects of that type. Thus, a class is a template for an object, and an object is an instance of a class.
 - When you define a class, you declare its exact form and nature. You do this by specifying the data that it contains and the code that operates on that data. While very simple classes may contain only code or only data, most real-world classes contain both.
 - A class is declared by use of the class keyword.
-#### **`[1.java](1.java)`**
+#### **[1.java](1.java)**
 ```java
 class Box {
     double width;
@@ -28,7 +28,8 @@ class Box {
 - Each time you create an instance of a class, you are creating an object that contains its own copy of each instance variable defined by the class.
 - In general, you use the dot operator to access both the instance variables and the methods within an object.
 - For a better understanding about method and dot operator, refer to this [article](https://medium.com/s/javaforhumans_1509490998109/java-for-humans-methods-dot-notation-51077bab55e1).
-#### **`[2.java](2.java)`**
+
+#### **[2.java](2.java)**
 ```java
 // This program uses a parameterized method.
 
@@ -70,6 +71,7 @@ class BoxDemo {
   }
 }
 ```
+
 - Each object has its own copies of the instance variables. Changes to the instance variables of one object have no effect on the instance variables of another.
 - Obtaining objects of a class is a two-step process.
     - First, you must declare a variable of the class type. This variable does not define an object. Instead, it is simply a variable that can refer to an object.(Reference Variable)
@@ -80,7 +82,7 @@ class BoxDemo {
 - A constructor initializes an object immediately upon creation. It has the same name as the class in which it resides and is syntactically similar to a method. 
 - The constructor is automatically called when the object is created, before the new operator completes.
 - They have no return type, not even *void*
-#### **`[3.java](3.java)`**
+#### **[3.java](3.java)**
 ```java
 /* Here, Box uses a parameterized constructor to
    initialize the dimensions of a box.
@@ -122,13 +124,14 @@ class BoxDemo {
         System.out.println("Volume is " + vol);
     }
 }
-
 ```
+
 ### this Keyword :-
 
 - Sometimes a method will need to refer to the object that invoked it. To allow this, Java defines the this keyword. this can be used inside any method to refer to the current object.
 - This is always a reference to the object on which the method was invoked. You can use this anywhere a reference to an object of the current class’ type is permitted.
-#### **`[4.java](4.java)`**
+
+#### **[4.java](4.java)**
 ```java
 // Use this to resolve name-space collisions.
 Box(double width, double height, double depth) {
@@ -144,7 +147,8 @@ Box(double width, double height, double depth) {
 - In Java, it is possible to define two or more methods within the same class that share the same name, as long as their parameter declarations are different. When this is the case, the methods are said to be overloaded, and the process is referred to as method overloading.
 - Method overloading is one of the ways that Java supports polymorphism.
 - When Java encounters a call to an overloaded method, it simply executes the version of the method whose parameters match the arguments used in the call.
-#### **`[5.java](5.java)`**
+
+#### **[5.java](5.java)**
 ```java
 // Demonstrate method overloading.
 class OverloadDemo {
@@ -183,9 +187,10 @@ class Overload {
     }
 }
 ```
+
 - In addition to overloading normal methods, you can also overload constructor methods.
 
-#### **`[6.java](6.java)`**
+#### **[6.java](6.java)**
 ```java
 // Automatic type conversions apply to overloading.
 class OverloadDemo {
@@ -223,7 +228,7 @@ class Overload {
 - When a member of a class is modified by public, then that member can be accessed by any other code.
 - When a member of a class is specified as private, then that member can only be accessed by other members of its class.
 
-#### **`[7.java](7.java)`**
+#### **[7.java](7.java)**
 ```java
 /* This program demonstrates the difference between
    public and private.
