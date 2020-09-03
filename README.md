@@ -79,7 +79,6 @@ Follow the [contribution guide](https://github.com/CC-MNNIT/2020-21-Classes/blob
 * [Arsh Singh](https://github.com/iosdev474)
 * [Anuj Modi](https://github.com/descifrado)
 * [Vivek Rathi](https://github.com/vivekrathi53)
-* [Gaurav Katare](https://github.com/GauravKatare)
 
 ## Contact
 
