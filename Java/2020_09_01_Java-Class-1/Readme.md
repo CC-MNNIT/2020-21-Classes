@@ -81,7 +81,8 @@ class BoxDemo {
 
 - A constructor initializes an object immediately upon creation. It has the same name as the class in which it resides and is syntactically similar to a method. 
 - The constructor is automatically called when the object is created, before the new operator completes.
-- They have no return type, not even *void*
+- They have no return type, not even **void**.
+
 #### **[3.java](3.java)**
 ```java
 /* Here, Box uses a parameterized constructor to
