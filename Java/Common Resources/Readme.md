@@ -1,4 +1,4 @@
-# Softablitz 2k19
+# Softablitz 2k20
 
 Follow this guide as general source for Softablitz
 
@@ -50,6 +50,7 @@ For any doubt related to this event feel free to contact Coordinators.
 
 * [Shrey Pandey](https://www.facebook.com/moonknight2076/)
 * [Anuj Modi](https://www.facebook.com/anuj.descifrado)
+* [Arsh Singh](https://github.com/iosdev474)
 * [Nitish Gupta](https://www.facebook.com/nitishmnnit)
 
 ## Contributing
