@@ -2,11 +2,11 @@
 
 #### September 1st, 2020
 
-### Java Class 1 [Recording](https://drive.google.com/file/d/1qIFBGtxhwXq4Zay7a0BQ8yrtowJcEpHG/view?usp=sharing)
+### Softablitz Class 1 [Recording](https://drive.google.com/file/d/1qIFBGtxhwXq4Zay7a0BQ8yrtowJcEpHG/view?usp=sharing)
 
 ## Class Content :-
 
-### Class (Ye Java vli hai) :-
+### Class (Ye OOPs vli hai) :-
 - Class defines a new data type. Once defined, this new type can be used to create objects of that type. Thus, a class is a template for an object, and an object is an instance of a class.
 - When you define a class, you declare its exact form and nature. You do this by specifying the data that it contains and the code that operates on that data. While very simple classes may contain only code or only data, most real-world classes contain both.
 - A class is declared by use of the class keyword.
