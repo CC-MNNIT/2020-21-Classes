@@ -10,11 +10,11 @@
 
 - [Machine Learning From Scratch(Andrew Ng)](https://www.youtube.com/playlist?list=PLLssT5z_DsK-h9vYZkQkYNWcItqhlRJLN)
 
-- [Importance of Normal Distribution](https://towardsdatascience.com/why-data-scientists-love-gaussian-6e7a7b726859#:~:text=For Deep Learning & Machine Learning,distribution model simply stands out.&text=Gaussian distribution model, often identified,mainly because of three reasons)
+- [Importance of Normal Distribution](https://towardsdatascience.com/why-data-scientists-love-gaussian-6e7a7b726859)
 
 - [Amazing Intro to Neural Network](https://www.youtube.com/watch?v=aircAruvnKk&list=PL_h2yd2CGtBHEKwEH5iqTZH85wLS-eUzv)
 
-- [Dataset For First Class](https://mnnitedu.sharepoint.com/sites/MNNITCCQueriesOfficial/Shared Documents/Logical Rhythm/housing.zip)
+- [Dataset For First Class]
 
 ### Why is most data gausian
     The doubt was as to why machine learning models don’t perform well on data whose distribution is not gaussian. And we told you that real-world data has gaussian distribution, which is wrong. The variable can have any distribution and as to why data is normally distributed. Notice the different words, data we have  and variable.  Another information was that ML models were built keeping that fact in mind, and that is why they don’t perform on data that is not gaussian distributed.I will clarify why is that. For this, we need to know about the central distribution theorem, distributions and samples.
