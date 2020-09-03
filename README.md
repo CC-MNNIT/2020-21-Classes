@@ -41,10 +41,10 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Installation Guide](WebD/Installation%20Guide.pdf)
 
 - Competitve Coding
-	- [Common Resource](Competitive_Coding)
-    	- [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)
-    	- [DP Class - 1](Competitive_Coding/12_08_2020_DP_1)
-    	- [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)
+	- [Common Resource](Competitive_Coding)  
+    	- [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)  
+    	- [DP Class - 1](Competitive_Coding/12_08_2020_DP_1)  
+    	- [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)  
     
 - Placements and Internships
 	- [Guide to Placement](Placements)
