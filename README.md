@@ -36,19 +36,28 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Git Class - 1](Git_Github/2020_08_29_Git-Class-1)
 	- [Git Class - 2](Git_Github/2020_08_30_Git-Class-2)
 	
+- Java and OOP
+	- [Java Common Resources](Java/Common Resources)
+	- [Softablitz Class - 1](Java/2020_09_01_Java-Class-1)
+	- [Previous Year Problem Statements](Java/Softablitz Problem Statements)
+	
+
 - Web Development
-	- [Webster Class -1](WebD/2020_08_29_Webster-Class-1)
+	- [Webster Class - 1](WebD/2020_08_29_Webster-Class-1)
 	- [Installation Guide](WebD/Installation%20Guide.pdf)
 	
+
 - Competitve Coding
 	- [Common Resource](Competitive_Coding)  
 	- [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)  
 	- [DP Class - 1](Competitive_Coding/12_08_2020_DP_1)  
 	- [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)  
     	
+
 - Placements and Internships
 	- [Guide to Placement](Placements)
 	
+
 - For Academic Resources refer to [Shaurya Kumar's Guide](https://shauryashares.weebly.com/)
 
 - Class Recordings
