@@ -27,8 +27,8 @@
   * [Topcoder](https://www.topcoder.com/community/data-science/data-science-tutorials/) - Awesome place to learn
   
 #### Other Material
-  * [Interview Tips]()
-  * [Mock Interview]()
+  * [Interview Tips](./interview-tips.pdf)
+  * [Mock Interview](https://drive.google.com/file/d/1ZS-n5QM59YO3K5zQZawMb6ScyBpqVYi7/view?usp=sharing)
 
 ## Language Specific
 
