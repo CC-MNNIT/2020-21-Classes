@@ -43,8 +43,9 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	
 
 - Web Development
-	- [Webster Class - 1](WebD/2020_08_29_Webster-Class-1)
 	- [Installation Guide](WebD/Installation%20Guide.pdf)
+	- [Webster Class - 1](WebD/2020_08_29_Webster-Class-1)
+	- [Webster Class - 2](WebD/2020_09_04_Webster-Class-2)
 	
 
 - Competitve Coding
