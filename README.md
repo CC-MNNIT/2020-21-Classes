@@ -55,10 +55,10 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)  
 	
 - Android Development
-	-[DroidRush Class 1](Android/2020_09_05_Droid-Class-1)
+	- [DroidRush Class 1](Android/2020_09_05_Droid-Class-1)
     	
 - Machine Learning
-	-[Logical Rhythm Class 1](ML/2020_08_31_LR-Class-1)
+	- [Logical Rhythm Class 1](ML/2020_08_31_LR-Class-1)
 	
 
 - Placements and Internships
