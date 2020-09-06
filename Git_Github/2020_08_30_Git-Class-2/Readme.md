@@ -216,9 +216,10 @@ Command to empty the bucket i.e. take out the changes from the bucket: `git stas
 
 
 ### Resources for further study:
+* [Class PPT](Lecture-2.pdf)
 * [Git Resource](https://try.github.io/)
 * [Udacity Course: How to Use Git and GitHub?](https://classroom.udacity.com/courses/ud775-india)
-* [Git Cheat Sheet](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)
+* [Git Cheat Sheet](github-git-cheat-sheet.pdf)
 * [Progit](https://git-scm.com/book/en/v2)
 
 #### Contact Us:
