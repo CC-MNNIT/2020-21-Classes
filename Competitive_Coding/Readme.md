@@ -1,4 +1,4 @@
-# Competitive Coding Classes 2018-2019 (Except for B.Tech First Years)
+# Competitive Coding Classes 2020-2021 (Except for B.Tech First Years)
 
 ## Table of Contents
 
@@ -44,3 +44,11 @@ Join our fb group for classes notification and other information.
 - [ICPC Syllabus](https://docs.google.com/document/d/1_dc3Ifg7Gg1LxhiqMMmE9UbTsXpdRiYh4pKILYG2eA4/edit)
 - [Topics](https://discuss.codechef.com/questions/18752/what-are-the-must-known-algorithms-for-online-programming-contests)
 - [Algorithms](https://cp-algorithms.com/)
+
+## Coordinators
+
+- [Vivek Rathi](https://github.com/vivekrathi53)
+- [Gaurav Katare](https://github.com/GauravKatare)
+- [Keshav Sharma]
+- [Abhishek Kumar](https://github.com/abhishekad7)
+- [Gaurav Shukla]

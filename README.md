@@ -36,15 +36,37 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Git Class - 1](Git_Github/2020_08_29_Git-Class-1)
 	- [Git Class - 2](Git_Github/2020_08_30_Git-Class-2)
 	
+- Java and OOP
+	- [Java Common Resources](Java/Common%20Resources)
+	- [Softablitz Class - 1](Java/2020_09_01_Java-Class-1)
+	- [Previous Year Problem Statements](Java/Softablitz%20Problem%20Statements)
+	
+
 - Web Development
-	- [Webster Class -1](WebD/2020_08_29_Webster-Class-1)
 	- [Installation Guide](WebD/Installation%20Guide.pdf)
+	- [Webster Class - 1](WebD/2020_08_29_Webster-Class-1)
+	- [Webster Class - 2](WebD/2020_09_04_Webster-Class-2)
+	
 
 - Competitve Coding
-    - [Common Resource](Competitive_Coding)
-    - [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)
-    - [DP Class - 1](Competitive_Coding/12_08_2020_DP_1)
-    - [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)
+	- [Common Resource](Competitive_Coding)  
+	- [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)  
+	- [DP Class - 1](Competitive_Coding/12_08_2020_DP_1)  
+	- [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)  
+	
+- Android Development
+	- [Common Resources](Android)
+	- [DroidRush Class 1](Android/2020_09_05_DroidRush-Class-1)
+    	
+- Machine Learning
+	- [Logical Rhythm Class 1](ML/2020_08_31_LR-Class-1)
+	
+
+- Placements and Internships
+	- [Guide to Placement](Placements)
+	
+
+- For Academic Resources refer to [Shaurya Kumar's Guide](https://shauryashares.weebly.com/)
 
 - Class Recordings
 	- You can access all the class recordings held on MS Teams through this [Drive Link](https://drive.google.com/drive/folders/1VKNH9mT945nq6hFZDk9kSN4ibQhWfj_L?usp=sharing)  
@@ -65,7 +87,6 @@ Follow the [contribution guide](https://github.com/CC-MNNIT/2020-21-Classes/blob
 * [Arsh Singh](https://github.com/iosdev474)
 * [Anuj Modi](https://github.com/descifrado)
 * [Vivek Rathi](https://github.com/vivekrathi53)
-* [Gaurav Katare](https://github.com/GauravKatare)
 
 ## Contact
 

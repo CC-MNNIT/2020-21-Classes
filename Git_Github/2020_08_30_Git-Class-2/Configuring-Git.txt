@@ -1,0 +1,20 @@
+Common commands for configuring git are - 
+
+    1. git config --global user.name "[user name]" - Sets the name you want attached to 
+                                                     your commit transactions.
+
+    2. git config --global user.email "[user email]" - Sets the email you want attached
+                                                       to your commit transactions.
+
+    3. git config --global color.ui auto - Enables helpful colorization of command line 
+                                           output.
+
+    4. git config --global http.proxy "http://edcguest:edcguest@172.31.100.14:3128"
+
+    5. git config --global https.proxy "https://edcguest:edcguest@172.31.100.14:3128"
+
+    Last two commands are used for configuring git to be used over proxy. You may change
+    the proxy values accordingly.
+
+Note: These command are used for configuring git and are not needed to be executed 
+every time an empty git repository is initialized.

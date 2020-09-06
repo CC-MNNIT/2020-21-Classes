@@ -162,7 +162,8 @@ Actually different operating system have different ways to simulate the end of f
 
 #### Further Readings:
 
-[Git Resource](https://try.github.io/)
+*   [Class PPT](Lecture-1.pdf)
+*   [Git Resource](https://try.github.io/)
 
 #### Contact Us:
 <Table>
