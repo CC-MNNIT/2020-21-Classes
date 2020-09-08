@@ -39,6 +39,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 - Java and OOP
 	- [Java Common Resources](Java/Common%20Resources)
 	- [Softablitz Class - 1](Java/2020_09_01_Java-Class-1)
+	- [Softablitz Class - 2](Java/2020_09_05_Java-Class-2)
 	- [Previous Year Problem Statements](Java/Softablitz%20Problem%20Statements)
 	
 
