@@ -12,7 +12,7 @@
 ## Sites to Follow:
 
 * [GeeksforGeeks](https://www.geeksforgeeks.org/) - Complete package for learning
-* [InterviewBit](https://www.interviewbit.com/) / [LeetCode]() - Complete package for coding practise
+* [InterviewBit](https://www.interviewbit.com/) / [LeetCode](http://www.leetcode.com/) - Complete package for coding practise
 
 
 #### Online Judges
@@ -29,6 +29,7 @@
 #### Other Material
   * [Interview Tips](./interview-tips.pdf)
   * [Mock Interview](https://drive.google.com/file/d/1ZS-n5QM59YO3K5zQZawMb6ScyBpqVYi7/view?usp=sharing)
+  * [Complete Guide](https://www.geeksforgeeks.org/a-complete-step-by-step-guide-for-placement-preparation-by-geeksforgeeks/)
 
 ## Language Specific
 
