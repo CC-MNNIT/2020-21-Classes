@@ -24,13 +24,13 @@
  
 ### Some Amazing Youtube channels to learn Web Development:
 
- - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)  (My favourite Channel - Nitin )
- - [freecodecamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
- - [Web Dev Simplied](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
- - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)
- - [Multiplayer Snake Game | JavaScript & Socket.io](https://www.youtube.com/watch?v=ppcBIHv_ZPs)
- - [Clever Programmer (Builds Amazing Real life Projects in hours)](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)
- - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)
- - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)
+ - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)  (My favourite Channel - Nitin )  
+ - [freecodecamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)  
+ - [Web Dev Simplied](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)  
+ - [Traversy Media](https://www.youtube.com/user/TechGuyWeb)  
+ - [Multiplayer Snake Game JavaScript & Socket.io](https://www.youtube.com/watch?v=ppcBIHv_ZPs)  
+ - [Clever Programmer (Builds Amazing Real life Projects in hours)](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)  
+ - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)  
+ - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)  
  
 I strongly suggest to subscribe these channels.
