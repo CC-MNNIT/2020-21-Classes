@@ -3,18 +3,18 @@
  - [W3 schools](https://www.w3schools.com/)
 
 ### JS from
- - https://www.youtube.com/watch?v=hdI2bqOjy3c
- - https://www.youtube.com/watch?v=W6NZfCO5SIk&pbjreload=101
- - https://www.youtube.com/watch?v=PFmuCDHHpwk
+ - [JS Tutorial 1](https://www.youtube.com/watch?v=hdI2bqOjy3c)
+ - [JS Tutorial 2](https://www.youtube.com/watch?v=W6NZfCO5SIk&pbjreload=101)
+ - [JS Tutorial 3](https://www.youtube.com/watch?v=PFmuCDHHpwk)
 
 ### Must Watch ---->>>>> 
- - https://www.youtube.com/watch?v=_8gHHBlbziw
+ - [Video](https://www.youtube.com/watch?v=_8gHHBlbziw)
 
 
 ### NodeJS
  - [freecodecamp.org Trust( 100% )](https://www.youtube.com/watch?v=RLtyhwFtXQA)
- - https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
- - https://www.youtube.com/watch?v=TlB_eWDSMt4
+ - [NodeJS Tutorial 1](https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp)
+ - [NodeJS Tutorial 2](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 
 
 ### Now Let's Build A project and API
