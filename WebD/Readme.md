@@ -1,28 +1,28 @@
 ## A Roadmap To Web Development:
-# Learn HTML, CSS, JS from 
- - https://www.w3schools.com/
+### Learn HTML, CSS, JS from 
+ - [W3 schools](https://www.w3schools.com/)
 
-# JS from
+### JS from
  - https://www.youtube.com/watch?v=hdI2bqOjy3c
  - https://www.youtube.com/watch?v=W6NZfCO5SIk&pbjreload=101
  - https://www.youtube.com/watch?v=PFmuCDHHpwk
 
-# Must Watch ---->>>>> 
+### Must Watch ---->>>>> 
  - https://www.youtube.com/watch?v=_8gHHBlbziw
 
 
-# NodeJS
- - freecodecamp.org Trust( 100% ) --->>https://www.youtube.com/watch?v=RLtyhwFtXQA
+### NodeJS
+ - [freecodecamp.org Trust( 100% )](https://www.youtube.com/watch?v=RLtyhwFtXQA)
  - https://www.youtube.com/watch?v=w-7RQ46RgxU&list=PL4cUxeGkcC9gcy9lrvMJ75z9maRw4byYp
  - https://www.youtube.com/watch?v=TlB_eWDSMt4
 
 
-# Now Let's Build A project and API
+### Now Let's Build A project and API
 
  - [How To Build A URL Shortener](https://www.youtube.com/watch?v=SLpUKAGnm-g) With Node.js, Express, and MongoDB  
  - [Node.js and Chatkit JavaScript tutorial](https://www.youtube.com/watch?v=VT674-wB6-Q): Build a command-line chat app  
  
-# Some Amazing Youtube channels to learn Web Development:
+### Some Amazing Youtube channels to learn Web Development:
 
  - [Dev Ed](https://www.youtube.com/channel/UClb90NQQcskPUGDIXsQEz5Q)  (My favourite Channel - Nitin )
  - [freecodecamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
