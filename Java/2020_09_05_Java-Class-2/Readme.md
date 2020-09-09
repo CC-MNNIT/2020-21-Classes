@@ -234,7 +234,7 @@ class RefDemo {
 
 - Whenever a subclass needs to refer to its immediate superclass, it can do so by use of the keyword super.
 - super has two general forms. 
-    - The first calls the superclass’ constructor. 
+    - The first calls the superclass’ constructor.
     #### **[5.java](5.java)**
     ```java
     // BoxWeight now uses super to initialize its Box attributes.
@@ -248,7 +248,7 @@ class RefDemo {
         }    
     }
     ```
-    - The second is used to access a member of the superclass that has been hidden by a member of a subclass. 
+    - The second is used to access a member of the superclass that has been hidden by a member of a subclass.
     #### **[6.java](6.java)**
     ```java
     // Using super to overcome name hiding.
