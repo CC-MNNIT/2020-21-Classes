@@ -383,9 +383,3 @@ In this article we have tried to explain when to use Abstract Classes and when t
 > To write good code you must read good code.
 
 Interfaces and Abstract Classes are highly confusing concepts, So in case of any doubt feel free to reach any of the Softablitz coordinator.
-
-Raw file of all the codes in this article can be found [here](https://github.com/CC-MNNIT/2018-19-Classes/tree/master/Java/2018_08_16_Java-Class-3).
-
-I hope by the above example you got the gist of interfaces. In case of any doubts, feel free to contact us. We are happy to help. :)
-
-{% include disqus.html %} 
