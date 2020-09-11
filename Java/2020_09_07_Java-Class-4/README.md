@@ -1,4 +1,6 @@
-# Abstract Classes
+### Following article is one of the best explaination of Abstract Class and Inheritance and is compiled by Computer Club Coordinators of batch 2019
+
+# Abstract Classes revisited
 
 As we move up the inheritace hierarchy, classes become more general and probably more abstract. At some point, the ancestor class becomes so general that you think of it more as a basis for other classes than a class which you want to instantiate. 
 
