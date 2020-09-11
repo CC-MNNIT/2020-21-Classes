@@ -1,4 +1,6 @@
-### Following article is one of the best explaination of Abstract Class and Inheritance and is compiled by Computer Club Coordinators of batch 2019
+#### Following article is one of the best explaination of Abstract Class and Inheritance and is compiled by Computer Club Coordinators of batch 2019
+
+### Sfotablitz Class 4 Recording [here](https://drive.google.com/file/d/1nCbAF86u-UWpb2e27f5JGpg6hRFBYpmB/view?usp=sharing)
 
 # Abstract Classes revisited
 
