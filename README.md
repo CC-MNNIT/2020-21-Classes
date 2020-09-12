@@ -42,7 +42,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Softablitz Class - 2](Java/2020_09_05_Java-Class-2)
 	- [Softablitz Class - 3](Java/2020_09_06_Java-Class-3)
 	- [Softablitz Class - 4](Java/2020_09_07_Java-Class-4)
-	- [Softablitz Class - ](Java/2020_09_12_Java-Class-5)
+	- [Softablitz Class - 5](Java/2020_09_12_Java-Class-5)
 	- [Previous Year Problem Statements](Java/Softablitz%20Problem%20Statements)
 	
 
