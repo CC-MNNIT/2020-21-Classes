@@ -6,5 +6,6 @@ Learn about Express([Template Engines](http://expressjs.com/en/guide/using-templ
 
 [EJS documentation](https://ejs.co/#docs)
 
-Index file made in the lecture is [here](/index.js)
+Index file made in the lecture is [here](/WebD/2020_09_12_Webster-Class-NodeJS-1/index.js)
 
+![Project Structure](/WebD/2020_09_12_Webster-Class-NodeJS-1/Project%20Structure.png)
