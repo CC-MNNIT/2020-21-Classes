@@ -58,7 +58,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)  
 	- [DP Class - 1](Competitive_Coding/12_08_2020_DP_1)  
 	- [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)  
-	
+	- [DP Class - 3](Competitive_Coding/13_09_2020_DP_3)  	
 - Android Development
 	- [Common Resources](Android)
 	- [DroidRush Class 1](Android/2020_09_05_DroidRush-Class-1)
