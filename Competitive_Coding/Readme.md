@@ -52,3 +52,5 @@ Join our fb group for classes notification and other information.
 - [Keshav Sharma]
 - [Abhishek Kumar](https://github.com/abhishekad7)
 - [Gaurav Shukla]
+- [Sudhanshu Kumar](https://github.com/sudhanshu6324)
+- [Gaurav Kumar](https://github.com/ogauravm)
