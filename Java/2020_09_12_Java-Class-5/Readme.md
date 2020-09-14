@@ -2,7 +2,7 @@
 
 #### September 12th, 2020
 
-### Softablitz Class 6 [Recording](https://drive.google.com/file/d/1egq_lTtIyxzfseLsUJGV3AbiTdF21_bb/view?usp=sharing)
+### Softablitz Class 5 [Recording](https://drive.google.com/file/d/1egq_lTtIyxzfseLsUJGV3AbiTdF21_bb/view?usp=sharing)
 
 ## Class Content :-
 
