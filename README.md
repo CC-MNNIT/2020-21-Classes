@@ -39,11 +39,16 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 - Java and OOP
 	- [Java Common Resources](Java/Common%20Resources)
 	- [Softablitz Class - 1](Java/2020_09_01_Java-Class-1)
+	- [Softablitz Class - 2](Java/2020_09_05_Java-Class-2)
+	- [Softablitz Class - 3](Java/2020_09_06_Java-Class-3)
+	- [Softablitz Class - 4](Java/2020_09_07_Java-Class-4)
+	- [Softablitz Class - 5](Java/2020_09_12_Java-Class-5)
 	- [Previous Year Problem Statements](Java/Softablitz%20Problem%20Statements)
 	
 
 - Web Development
 	- [Installation Guide](WebD/Installation%20Guide.pdf)
+	- [Roadmap to Web Development](WebD)
 	- [Webster Class - 1](WebD/2020_08_29_Webster-Class-1)
 	- [Webster Class - 2](WebD/2020_09_04_Webster-Class-2)
 	
@@ -53,7 +58,14 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)  
 	- [DP Class - 1](Competitive_Coding/12_08_2020_DP_1)  
 	- [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)  
+	- [DP Class - 3](Competitive_Coding/13_09_2020_DP_3)  	
+- Android Development
+	- [Common Resources](Android)
+	- [DroidRush Class 1](Android/2020_09_05_DroidRush-Class-1)
     	
+- Machine Learning
+	- [Logical Rhythm Class 1](ML/2020_08_31_LR-Class-1)
+	
 
 - Placements and Internships
 	- [Guide to Placement](Placements)
@@ -68,8 +80,8 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 
 ## Previous Years Resources
 
-- [CC-MNNIT-2018-19](https://github.com/CC-MNNIT/2018-19-Classes)
-- [CC-MNNIT-2019-20](https://github.com/CC-MNNIT/2019-20-Classes)
+- [CC-MNNIT-2018-19](https://cc-mnnit.github.io/2018-19-Classes/)
+- [CC-MNNIT-2019-20](https://cc-mnnit.github.io/2019-20-Classes/)
 
 ## Contribute
 

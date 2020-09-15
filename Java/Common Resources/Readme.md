@@ -24,9 +24,9 @@ The event comprises of 3 rounds -
 ### Books
 List of some awesome Java Books to begin with-
 
-- [Java - The Complete Reference](Herbert-Schildt.pdf) is one the best books to begin with. It covers basics of Java in crisp and concise manner.
-- [Core Java - Vol. I - Fundamentals](Gary-Cornell.pdf) covers both basics and advanced topics in Java, Highly recommened for those who are already familiar with Java.
-- [Java Language Specification](james-gosling.pdf) is the legend book to refer. Only referred to those who are already familiar with Java.
+- [Java - The Complete Reference](https://raw.githubusercontent.com/ontiyonke/book-1/master/%5BJAVA%5D%5BThe%20Complete%20Reference%20Java%20Ninth%20Edition%5D.pdf) is one the best books to begin with. It covers basics of Java in crisp and concise manner.
+- [Core Java - Vol. I - Fundamentals](https://ptgmedia.pearsoncmg.com/images/9780134177304/samplepages/9780134177304.pdf) covers both basics and advanced topics in Java, Highly recommeneded for those who are already familiar with Java.
+- [Java Language Specification](https://cr.openjdk.java.net/~iris/se/11/latestSpec/java-se-11-jls-draft-diffs.pdf) is the legend book to refer. Only referred to those who are already familiar with Java.
 
 
 ### Online Resources
