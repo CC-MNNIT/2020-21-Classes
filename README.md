@@ -71,6 +71,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 - Android Development
 	- [Common Resources](Android)
 	- [DroidRush Class 1](Android/2020_09_05_DroidRush-Class-1)
+	- [DroidRush Class 2](Android/2020_09_14_DroidRush-Class-2/myapp)
 
 
 - Machine Learning
