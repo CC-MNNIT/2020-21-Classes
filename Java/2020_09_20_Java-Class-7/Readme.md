@@ -6,7 +6,7 @@
 
 ## Class Content :-
 
-* [Class PPT](JAVA_CLASS_7.pptx)
+* [Class PPT](JAVA_Class_7.pptx)
 
 * [Socket - Client Code](Client.java)
 
