@@ -1,5 +1,5 @@
 # Study Materials
-
+- [Class Recoding](https://drive.google.com/file/d/1pB8D9SNol13Rg436eHUQUU_ylvlTF9Aq/view?usp=sharing)
 
 ## Tutorials
 - [AtcoderDP](https://atcoder.jp/contests/dp/tasks)
