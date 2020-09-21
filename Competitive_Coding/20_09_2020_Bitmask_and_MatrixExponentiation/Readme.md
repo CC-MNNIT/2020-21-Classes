@@ -1,5 +1,5 @@
 # Study Materials
-
+- [Class Recording](https://drive.google.com/file/d/1pcqvAo9lqr4MIcKxfHlWbtWaJsjI4PKa/view?usp=sharing)
 
 ## Tutorials
 - [Tutorial Hackerearth](https://www.hackerearth.com/practice/algorithms/dynamic-programming/bit-masking/tutorial/)
