@@ -1,4 +1,12 @@
-## Minimax Algorithm
+# Code Warrior Class-1
+
+#### September 22nd, 2020
+
+### Code Warrior Class 1 [Recording](https://drive.google.com/file/d/14Nen9OceBCLeHwDWZYWeZbILKM9X74GH/view?usp=sharing)
+
+## Class Content :-
+
+### Minimax Algorithm
 
 Links which have explained minimax algo:
 
