@@ -32,10 +32,23 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 
 ## Resources
 
+- Android Development
+	- [Common Resources](Android)
+	- [DroidRush Class 1](Android/2020_09_05_DroidRush-Class-1)
+	- [DroidRush Class 2](Android/2020_09_14_DroidRush-Class-2/myapp)
+
+- Competitve Coding
+	- [Common Resource](Competitive_Coding)  
+	- [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)  
+	- [DP Class - 1](Competitive_Coding/12_08_2020_DP_1)  
+	- [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)  
+	- [DP Class - 3](Competitive_Coding/13_09_2020_DP_3)  	
+    - [Bitmask and Matrix Exponentiation](Competitive_Coding/20_09_2020_Bitmask_and_MatrixExponentiation)
+    - [Number Theory](Competitive_Coding/20_09_2020_Number_Theory)
+
 - Git And Github
 	- [Git Class - 1](Git_Github/2020_08_29_Git-Class-1)
 	- [Git Class - 2](Git_Github/2020_08_30_Git-Class-2)
-	
 
 - Java and OOP
 	- [Java Common Resources](Java/Common%20Resources)
@@ -47,12 +60,13 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Softablitz Class - 6](Java/2020_09_19_Java-Class-6)
 	- [Softablitz Class - 7](Java/2020_09_20_Java-Class-7)
 	- [Previous Year Problem Statements](Java/Softablitz%20Problem%20Statements)
-	
 
 - Linux
 	- [Resources](Linux)
 	- [TuxWars Class - 1](Linux/2020_09_15_Tuxwars-Class-1)
-	
+
+- Machine Learning
+	- [Logical Rhythm Class 1](ML/2020_08_31_LR-Class-1)
 
 - Web Development
 	- [Installation Guide](WebD/Installation%20Guide.pdf)
@@ -62,30 +76,9 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Webster Class NodeJS - 1](WebD/2020_09_12_Webster-Class-NodeJS-1)
 	- [Webster Class NodeJS - 2](WebD/2020_09_16_Webster-Class-NodeJS-2)
 	- [Webster Class NodeJS - 3](WebD/2020_09_19_Webster-Class-NodeJS-3)
-	
-
-- Competitve Coding
-	- [Common Resource](Competitive_Coding)  
-	- [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)  
-	- [DP Class - 1](Competitive_Coding/12_08_2020_DP_1)  
-	- [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)  
-	- [DP Class - 3](Competitive_Coding/13_09_2020_DP_3)  	
-    - [Bitmask and Matrix Exponentiation](Competitive_Coding/20_09_2020_Bitmask_and_MatrixExponentiation)
-    - [Number Theory](Competitive_Coding/20_09_2020_Number_Theory)
-    
-- Android Development
-	- [Common Resources](Android)
-	- [DroidRush Class 1](Android/2020_09_05_DroidRush-Class-1)
-	- [DroidRush Class 2](Android/2020_09_14_DroidRush-Class-2/myapp)
-
-
-- Machine Learning
-	- [Logical Rhythm Class 1](ML/2020_08_31_LR-Class-1)
-	
 
 - Placements and Internships
 	- [Guide to Placement](Placements)
-	
 
 - For Academic Resources refer to [Shaurya Kumar's Guide](https://shauryashares.weebly.com/)
 
