@@ -42,6 +42,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 
 - Code Warriors
 	- [Code Warriors Class 1](CodeWarrior/2020_09_22_CodeWarrior-Class-1)
+	- [Code Warriors Class 2](CodeWarrior/2020_09_26_CodeWarrior-Class-2)
 
 - Competitve Coding
 	- [Common Resource](Competitive_Coding)  
