@@ -16,6 +16,13 @@
 - [Alpha-Beta pruning: HackerEarth](https://www.hackerearth.com/blog/artificial-intelligence/minimax-algorithm-alpha-beta-pruning/)
 - [Minimax/Alpha-Beta Simulator](https://raphsilva.github.io/utilities/minimax_simulator/)
 
+### Additional Topics
+- Move Ordering
+- Iterative Deepening
+- Killer Heuristics
+- Null Move Heuristics
+- Transposition tables
+
 Here is a code for 2k17's problem statement, you can clone the repo ;)
 [Clash Of Pawns AI](https://github.com/Abhey/Clash-Of-Pawn-AI)
 
