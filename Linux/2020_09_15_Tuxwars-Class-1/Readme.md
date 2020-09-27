@@ -6,6 +6,6 @@
 
 ## Class Content :-
 
-* [Class PPT](TuxWars.pdf)
+* [Class PPT](../TuxWars.pdf)
 
 * [Resources](../Readme.md)
