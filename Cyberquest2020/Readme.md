@@ -1,11 +1,11 @@
 # Avishkar 2020
 
-<div align="center"><img src="avishkar.png" height="200" width="400"/></div>
+<div align="center"><img src="../avishkar_logo_19.png" height="300" width="300"/></div>
 
 ## CyberQuest
 - [CyberQuest](https://www.facebook.com/cyberquest.avishkar/)
 
-<div align="center"><img src="cyberlogo.jpg" height="400" width="400"/></div>
+<div align="center"><img src="cyberlogo.jpg" height="300" width="300"/></div>
 
 ## Registration
 - [Avishkar Website](http://avishkar.mnnit.ac.in/)
