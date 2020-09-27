@@ -33,7 +33,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 ## Resources
 
 - Avishkar 2020
-	- [Cyberquest](Cyberquest/)
+	- [Cyberquest](Cyberquest2020/)
 
 - Android Development
 	- [Common Resources](Android)
