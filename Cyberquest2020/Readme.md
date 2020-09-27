@@ -1,6 +1,6 @@
 # Avishkar 2020
 
-<div align="center"><img src="../avishkar_logo_19.png" height="300" width="250"/></div>
+<div align="center"><img src="../avishkar_logo_19.png" height="200" width="250"/></div>
 
 ## CyberQuest
 - [CyberQuest](https://www.facebook.com/cyberquest.avishkar/)
