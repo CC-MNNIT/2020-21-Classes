@@ -70,6 +70,8 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 - Linux
 	- [Resources](Linux)
 	- [TuxWars Class - 1](Linux/2020_09_15_Tuxwars-Class-1)
+	- [TuxWars Class - 2](Linux/2020_09_21_Tuxwars-Class-2)
+	- [TuxWars Class - 3](Linux/2020_09_24_Tuxwars-Class-3)
 
 - Machine Learning
 	- [Logical Rhythm Class 1](ML/2020_08_31_LR-Class-1)
