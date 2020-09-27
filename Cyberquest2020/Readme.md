@@ -5,7 +5,7 @@
 ## CyberQuest
 - [CyberQuest](https://www.facebook.com/cyberquest.avishkar/)
 
-<div align="center"><img src="cyberlogo.jpg" height="100" width="100"/></div>
+<div align="center"><img src="cyberlogo.jpg" height="150" width="150"/></div>
 
 ## Registration
 - [Avishkar Website](http://avishkar.mnnit.ac.in/)
