@@ -32,6 +32,9 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 
 ## Resources
 
+- Avishkar 2020
+	- [Cyberquest](Cyberquest/)
+
 - Android Development
 	- [Common Resources](Android)
 	- [DroidRush Class 1](Android/2020_09_05_DroidRush-Class-1)
