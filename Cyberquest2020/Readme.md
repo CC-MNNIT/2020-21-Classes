@@ -33,4 +33,4 @@
 
 ### Event Details
 
-- [Cyberquest Events PPT](Cyberquest PPT.pdf)
+- [Cyberquest Events PPT](Cyberquest%20PPT.pdf)
