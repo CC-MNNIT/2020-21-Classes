@@ -30,3 +30,7 @@
 - [Droidrush](PS_Droidrush.pdf)
 - [Code Warrior](PS_Code-Warrior.pdf)
 - [Logical Rhythm]()
+
+### Event Details
+
+- [Cyberquest Events PPT](Cyberquest PPT.pdf)
