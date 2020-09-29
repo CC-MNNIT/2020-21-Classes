@@ -80,7 +80,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Logical Rhythm Class 1](ML/2020_08_31_LR-Class-1)
 
 - Revengg (CTF)
-	- [Revengg Class 1](Capture%20The%20Flag\2020_09_28_Revengg-Class-1)
+	- [Revengg Class 1](Capture%20The%20Flag/2020_09_28_Revengg-Class-1)
 
 - Web Development
 	- [Installation Guide](WebD/Installation%20Guide.pdf)
