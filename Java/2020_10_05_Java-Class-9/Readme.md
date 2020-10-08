@@ -2,7 +2,7 @@
 
 #### October 5th, 2020
 
-### Softablitz Class 9 [Recording]()
+### Softablitz Class 9 [Recording](https://drive.google.com/file/d/1KaHGW_9DRYpL3dVEmBu4m0P2se86iqFm/view?usp=sharing)
 
 ## Resources
 

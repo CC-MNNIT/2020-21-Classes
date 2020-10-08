@@ -69,6 +69,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Softablitz Class - 6](Java/2020_09_19_Java-Class-6)
 	- [Softablitz Class - 7](Java/2020_09_20_Java-Class-7)
 	- [Softablitz Class - 8](Java/2020_09_23_Java-Class-8)
+	- [Softablitz Class - 9](Java/2020_10_05_Java-Class-9)
 	- [Previous Year Problem Statements](Java/Softablitz%20Problem%20Statements)
 
 - Linux
