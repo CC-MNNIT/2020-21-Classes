@@ -16,10 +16,10 @@
 
 
 #### Online Judges
-  * [Codeforces](http://codeforces.com/)
-  * [Codechef](https://www.codechef.com/)
+  * [Codeforces](http://codeforces.com/) - One of the best websites for contests and cp
+  * [Codechef](https://www.codechef.com/)-One of the best place for contests and cp
   * [a2oj](https://a2oj.com/) - Category and level wise problems
-  * [Hackerearth](https://www.hackerearth.com)
+  * [Hackerearth](https://www.hackerearth.com) - Contains planty of problems for begineers
   * [Hackerrank](https://www.hackerrank.com/) - Good place for beginners
 
 #### Tutorials for DS/Algo :
@@ -46,6 +46,7 @@ Add yourself to contributors list as you contribute in present format.
 * [Mohit Khare](https://github.com/mkfeuhrer)
 * [Anuj Modi](https://github.com/descifrado)
 * [Arsh Singh](https://github.com/iosdev474)
+* [Shivanand,fresher,mnnit](https://github.com/pinnacle20)
 
 ## Contributing
 
