@@ -46,7 +46,7 @@ Add yourself to contributors list as you contribute in present format.
 * [Mohit Khare](https://github.com/mkfeuhrer)
 * [Anuj Modi](https://github.com/descifrado)
 * [Arsh Singh](https://github.com/iosdev474)
-* [Shivanand](https://github.com/pinnacle20)
+
 
 ## Contributing
 
