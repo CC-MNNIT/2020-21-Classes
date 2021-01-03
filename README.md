@@ -72,6 +72,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [DP Class - 3](Competitive_Coding/13_09_2020_DP_3)  	
     - [Bitmask and Matrix Exponentiation](Competitive_Coding/20_09_2020_Bitmask_and_MatrixExponentiation)
     - [Number Theory](Competitive_Coding/20_09_2020_Number_Theory)
+    - [Graph Class -2](Competitive_Coding/02_01_2021_Graph_2)
     
 - Android Development
 	- [Common Resources](Android)
