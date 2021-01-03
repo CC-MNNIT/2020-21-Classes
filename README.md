@@ -33,7 +33,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 
 ## Resources
 
-- [Freshers 2020-21](Freshers/)
+### [Freshers 2020-21](Freshers/)
 
 - Avishkar 2020
 	- [Cyberquest](Cyberquest2020/)
