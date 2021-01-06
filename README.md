@@ -4,6 +4,7 @@
 </head>
 
 # MNNIT-Computer-Coding-Club
+<div align="center"><img src="./cclogo.png" height="200" width="200"/></div>
 
 This repository contains the codes, support links and other relevant materials for every class under Computer Coding Club, MNNIT Allahabad,Prayagraj.
 
@@ -32,10 +33,34 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 
 ## Resources
 
+### [Freshers 2020-21](Freshers/)
+
+- Avishkar 2020
+	- [Cyberquest](Cyberquest2020/)
+
+- Android Development
+	- [Common Resources](Android)
+	- [DroidRush Class 1](Android/2020_09_05_DroidRush-Class-1)
+	- [DroidRush Class 2](Android/2020_09_14_DroidRush-Class-2/myapp)
+
+- Code Warriors
+	- [Problem Statement](CodeWarrior/Arena.zip)
+	- [Code Warriors Class 1](CodeWarrior/2020_09_22_CodeWarrior-Class-1)
+	- [Code Warriors Class 2](CodeWarrior/2020_09_26_CodeWarrior-Class-2)
+
+- Competitve Coding
+	- [Common Resource](Competitive_Coding)  
+	- [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)  
+	- [DP Class - 1](Competitive_Coding/12_08_2020_DP_1)  
+	- [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)  
+	- [DP Class - 3](Competitive_Coding/13_09_2020_DP_3)  	
+    - [Bitmask and Matrix Exponentiation](Competitive_Coding/20_09_2020_Bitmask_and_MatrixExponentiation)
+    - [Number Theory](Competitive_Coding/20_09_2020_Number_Theory)
+    
+    
 - Git And Github
 	- [Git Class - 1](Git_Github/2020_08_29_Git-Class-1)
 	- [Git Class - 2](Git_Github/2020_08_30_Git-Class-2)
-	
 
 - Java and OOP
 	- [Java Common Resources](Java/Common%20Resources)
@@ -46,13 +71,21 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Softablitz Class - 5](Java/2020_09_12_Java-Class-5)
 	- [Softablitz Class - 6](Java/2020_09_19_Java-Class-6)
 	- [Softablitz Class - 7](Java/2020_09_20_Java-Class-7)
+	- [Softablitz Class - 8](Java/2020_09_23_Java-Class-8)
+	- [Softablitz Class - 9](Java/2020_10_05_Java-Class-9)
 	- [Previous Year Problem Statements](Java/Softablitz%20Problem%20Statements)
-	
 
 - Linux
 	- [Resources](Linux)
 	- [TuxWars Class - 1](Linux/2020_09_15_Tuxwars-Class-1)
-	
+	- [TuxWars Class - 2](Linux/2020_09_21_Tuxwars-Class-2)
+	- [TuxWars Class - 3](Linux/2020_09_24_Tuxwars-Class-3)
+
+- Machine Learning
+	- [Logical Rhythm Class 1](ML/2020_08_31_LR-Class-1)
+
+- Revengg (CTF)
+	- [Revengg Class 1](Capture%20The%20Flag/2020_09_28_Revengg-Class-1)
 
 - Web Development
 	- [Installation Guide](WebD/Installation%20Guide.pdf)
@@ -62,7 +95,6 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Webster Class NodeJS - 1](WebD/2020_09_12_Webster-Class-NodeJS-1)
 	- [Webster Class NodeJS - 2](WebD/2020_09_16_Webster-Class-NodeJS-2)
 	- [Webster Class NodeJS - 3](WebD/2020_09_19_Webster-Class-NodeJS-3)
-	
 
 - Competitve Coding
 	- [Common Resource](Competitive_Coding)  
@@ -83,10 +115,8 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 - Machine Learning
 	- [Logical Rhythm Class 1](ML/2020_08_31_LR-Class-1)
 	
-
 - Placements and Internships
 	- [Guide to Placement](Placements)
-	
 
 - For Academic Resources refer to [Shaurya Kumar's Guide](https://shauryashares.weebly.com/)
 
