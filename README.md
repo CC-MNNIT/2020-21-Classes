@@ -56,6 +56,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [DP Class - 3](Competitive_Coding/13_09_2020_DP_3)  	
     - [Bitmask and Matrix Exponentiation](Competitive_Coding/20_09_2020_Bitmask_and_MatrixExponentiation)
     - [Number Theory](Competitive_Coding/20_09_2020_Number_Theory)
+    - [Graph Class -2](Competitive_Coding/02_01_2021_Graph_2)
     
     
 - Git And Github
@@ -96,25 +97,6 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Webster Class NodeJS - 2](WebD/2020_09_16_Webster-Class-NodeJS-2)
 	- [Webster Class NodeJS - 3](WebD/2020_09_19_Webster-Class-NodeJS-3)
 
-- Competitve Coding
-	- [Common Resource](Competitive_Coding)  
-	- [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)  
-	- [DP Class - 1](Competitive_Coding/12_08_2020_DP_1)  
-	- [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)  
-	- [DP Class - 3](Competitive_Coding/13_09_2020_DP_3)  	
-    - [Bitmask and Matrix Exponentiation](Competitive_Coding/20_09_2020_Bitmask_and_MatrixExponentiation)
-    - [Number Theory](Competitive_Coding/20_09_2020_Number_Theory)
-    - [Graph Class -2](Competitive_Coding/02_01_2021_Graph_2)
-    
-- Android Development
-	- [Common Resources](Android)
-	- [DroidRush Class 1](Android/2020_09_05_DroidRush-Class-1)
-	- [DroidRush Class 2](Android/2020_09_14_DroidRush-Class-2/myapp)
-
-
-- Machine Learning
-	- [Logical Rhythm Class 1](ML/2020_08_31_LR-Class-1)
-	
 - Placements and Internships
 	- [Guide to Placement](Placements)
 
