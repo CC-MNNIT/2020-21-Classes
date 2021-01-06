@@ -18,7 +18,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 
     - For those who have Windows 7
         - [VScode Installation](https://code.visualstudio.com/docs/setup/windows)
-        - [MingW installation](http://www.codebind.com/cprogramming/install-mingw-windows-10-gcc/)
+        - [MingW installation](https://code.visualstudio.com/docs/cpp/config-mingw)
         - Open VS code and type following command in terminal of VS code to check Installation<br>
         command: gcc --version<br>
         if output shows a version number then its successful. Otherwise contact coordinators
