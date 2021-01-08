@@ -2,7 +2,7 @@
 
 This section contains the codes, support links and other relevant materials for every class under Computer Coding Club, MNNIT Allahabad,Prayagraj held for newly admitted first year students.
 
-## Links for Joining Groups
+### Links for Joining Groups
 Join our fb group [MNNIT CC Queries](https://www.facebook.com/groups/ccqueries/) for classes schedule and other details.
 If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official](https://bit.ly/ccqueriesteam)
 
@@ -39,8 +39,8 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 - Coding
 	- [C-Programming Class 1](2021-01-03_Class-1/)
 
-## Class Recordings
+### Class Recordings
 - You can find all the recordings at this [Drive Link](https://drive.google.com/drive/folders/1T4PSadZL0A7pgWy3v-9plHNP-OpJgc6S?usp=sharing)
 
-## Academic Resources
+### Academic Resources
 - You can find resources for classroom studies and exams [here](https://shauryashares.weebly.com/)
