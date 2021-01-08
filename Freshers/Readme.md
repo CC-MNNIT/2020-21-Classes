@@ -7,7 +7,7 @@ Join our fb group [MNNIT CC Queries](https://www.facebook.com/groups/ccqueries/)
 If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official](https://bit.ly/ccqueriesteam)
 
 
-## Resources
+## Common Resources
 - Installation and Prerequisites
     - For those who have Mac OS
         - [GCC Installation](https://www.cyberciti.biz/faq/howto-apple-mac-os-x-install-gcc-compiler/)
@@ -30,7 +30,17 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 
 - [Freshers Briefing PPT](https://drive.google.com/file/d/1S1byFdRAVlGhW0SnYN66FZvCHztBW7LQ/view?usp=sharing)
 
-- [C-Programming Class 1](2021-01-03_Class-1/)
+- Books
+	- [C in depth Book](https://drive.google.com/file/d/1INlWWi9NBzHa0P4Z14fjyJCDxtPM5KKa/view?usp=sharing)
+	- [Let us C](https://drive.google.com/file/d/1YMJM3K18phodvr0TuKr2VypdjyraCzMv/view?usp=sharing)
+
+
+## Class Materials
+- Coding
+	- [C-Programming Class 1](2021-01-03_Class-1/)
 
 ## Class Recordings
 - You can find all the recordings at this [Drive Link](https://drive.google.com/drive/folders/1T4PSadZL0A7pgWy3v-9plHNP-OpJgc6S?usp=sharing)
+
+## Academic Resources
+- You can find resources for classroom studies and exams [here](https://shauryashares.weebly.com/)
