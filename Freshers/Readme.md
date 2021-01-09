@@ -6,8 +6,18 @@ This section contains the codes, support links and other relevant materials for 
 Join our fb group [MNNIT CC Queries](https://www.facebook.com/groups/ccqueries/) for classes schedule and other details.
 If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official](https://bit.ly/ccqueriesteam)
 
+## Class Materials
+- Coding
+	- [C-Programming Class 1](2021-01-03_Class-1/)
+    - [C-Programming Class 2](2021-01-09_Class-2/)
 
 ## Common Resources
+- [Freshers Briefing PPT](https://drive.google.com/file/d/1S1byFdRAVlGhW0SnYN66FZvCHztBW7LQ/view?usp=sharing)
+
+- Books
+	- [C in depth Book](https://drive.google.com/file/d/1INlWWi9NBzHa0P4Z14fjyJCDxtPM5KKa/view?usp=sharing)
+	- [Let us C](https://drive.google.com/file/d/1YMJM3K18phodvr0TuKr2VypdjyraCzMv/view?usp=sharing)
+
 - Installation and Prerequisites
     - For those who have Mac OS
         - [GCC Installation](https://www.cyberciti.biz/faq/howto-apple-mac-os-x-install-gcc-compiler/)
@@ -27,17 +37,6 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
         - [Install DevC++](https://www.softwaretestinghelp.com/dev-cpp-ide/)
         - It will work as both code editor and compiler
 
-
-- [Freshers Briefing PPT](https://drive.google.com/file/d/1S1byFdRAVlGhW0SnYN66FZvCHztBW7LQ/view?usp=sharing)
-
-- Books
-	- [C in depth Book](https://drive.google.com/file/d/1INlWWi9NBzHa0P4Z14fjyJCDxtPM5KKa/view?usp=sharing)
-	- [Let us C](https://drive.google.com/file/d/1YMJM3K18phodvr0TuKr2VypdjyraCzMv/view?usp=sharing)
-
-
-## Class Materials
-- Coding
-	- [C-Programming Class 1](2021-01-03_Class-1/)
 
 ### Class Recordings
 - You can find all the recordings at this [Drive Link](https://drive.google.com/drive/folders/1T4PSadZL0A7pgWy3v-9plHNP-OpJgc6S?usp=sharing)
