@@ -9,6 +9,7 @@
 - [BFS](https://cp-algorithms.com/graph/breadth-first-search.html)
 
 ## Questions
+- [DFS Practice Problems](https://cp-algorithms.com/graph/depth-first-search.html#toc-tgt-4)
 - [ELEVTRBL](https://www.spoj.com/problems/ELEVTRBL/)
 - [CATM](https://www.spoj.com/problems/CATM/)
 - [ONEZERO](https://www.spoj.com/problems/ONEZERO/)
