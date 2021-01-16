@@ -2,6 +2,7 @@
 
 
 ## Tutorials
+- [Class Recoding](https://drive.google.com/file/d/1L35qRCcdNRGBZSa0Sku13Hy1164JfD2p/view?usp=sharing)
 - [Rabin Karp](https://cp-algorithms.com/string/rabin-karp.html)
 - [Trie Data Structure](https://www.geeksforgeeks.org/trie-insert-and-search/)
 - [KMP](https://www.geeksforgeeks.org/kmp-algorithm-for-pattern-searching/)

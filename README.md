@@ -59,6 +59,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
     - [Graph Class - 2](Competitive_Coding/02_01_2021_Graph_2)
     - [Graph Class - 3](Competitive_Coding/09_01_2021_Graph_3)
     - [Graph Class - 4](Competitive_Coding/10_01_2021_Graph_4)
+    - [String Algorithms](Competitive_Coding/16_01_2021_String_Algorithms)
     
 - Git And Github
 	- [Git Class - 1](Git_Github/2020_08_29_Git-Class-1)
