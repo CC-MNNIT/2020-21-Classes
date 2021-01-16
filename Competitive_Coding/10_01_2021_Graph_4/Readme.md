@@ -5,6 +5,7 @@
 - [Cp Algo Toposort](https://cp-algorithms.com/graph/topological-sort.html)
 - [Cp Algo SCC](https://cp-algorithms.com/graph/strongly-connected-components.html)
 - [Toposort PPT](./toposort.pdf)
+- [SCC PPT](./scc.pptx)
 
 ## Questions
 * [SPOJ TOPOSORT](https://www.spoj.com/problems/TOPOSORT/)
