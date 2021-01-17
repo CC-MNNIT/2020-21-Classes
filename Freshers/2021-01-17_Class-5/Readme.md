@@ -1,8 +1,8 @@
-# C-Programming Class 4
+# C-Programming Class 5
 
-#### January 16th, 2021
+#### January 17th, 2021
 
-### C-Programming Class 4 Recordings
+### C-Programming Class 5 Recordings
 - [Panel 1](https://drive.google.com/file/d/1jP9WQOQZqloX0MPDWJMvGjyorLjHhA6I/view?usp=sharing)
 - [Panel 2](https://drive.google.com/file/d/1XB8rCDvDqTqIpbwbzdaqNFWhQBfal947/view?usp=sharing)
 
