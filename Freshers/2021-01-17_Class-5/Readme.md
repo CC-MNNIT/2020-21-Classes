@@ -10,4 +10,7 @@
 - [Class PPT](./CC_FirstYr_Class5.pdf)
 
 ## Assignment :-
-- Try to write code for the patterns given on page no 5 of class ppt.
+- Explore the library functions of Math.h library
+- Try to implement sqrt() and pow() functions on your own by defining functiond for them without using Math.h
+- Write a Program that expects marks of a student as input and compute the grades.
+- Write a Program to print all the digits of a number, Sum of digits of a number, and reverse the number.
