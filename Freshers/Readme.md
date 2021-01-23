@@ -13,6 +13,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
     - [C-Programming Class 3](2021-01-10_Class-3/)
     - [C-Programming Class 4](2021-01-16_Class-4/)
     - [C-Programming Class 5](2021-01-17_Class-5/)
+    - [C-Programming Class 6](2021-01-23_Class-6/)
 
 ## Common Resources
 - [Freshers Briefing PPT](https://drive.google.com/file/d/1S1byFdRAVlGhW0SnYN66FZvCHztBW7LQ/view?usp=sharing)
