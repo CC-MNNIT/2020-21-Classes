@@ -5,7 +5,7 @@ This section contains the codes, support links and other relevant materials for 
 ### Links for Joining Groups
 - Join our fb group [MNNIT CC Queries](https://www.facebook.com/groups/ccqueries/) for classes schedule and other details.
 - If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official](https://bit.ly/ccqueriesteam)
-- Install this [app]https://play.google.com/store/apps/details?id=com.dev334.litelo from SMP and subscribe to our club for updates through notifications on mobile: [How to use](https://docs.google.com/document/d/1PRaDw6xXJZmZu8rUBwj1HR59xwQ28GeEWWshsHcWj5s/edit)
+- Install this [app](https://play.google.com/store/apps/details?id=com.dev334.litelo) from SMP and subscribe to our club for updates through notifications on mobile: [How to use](https://docs.google.com/document/d/1PRaDw6xXJZmZu8rUBwj1HR59xwQ28GeEWWshsHcWj5s/edit)
 
 ## Class Materials
 - Coding
