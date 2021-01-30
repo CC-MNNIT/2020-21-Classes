@@ -16,6 +16,7 @@ This section contains the codes, support links and other relevant materials for 
     - [C-Programming Class 5](2021-01-17_Class-5/)
     - [C-Programming Class 6](2021-01-23_Class-6/)
     - [C-Programming Class 7](2021-01-24_Class-7/)
+    - [C-Programming Class 8](2021-01-30_Class-8/)
 
 ## Common Resources
 - [Freshers Briefing PPT](https://drive.google.com/file/d/1S1byFdRAVlGhW0SnYN66FZvCHztBW7LQ/view?usp=sharing)
