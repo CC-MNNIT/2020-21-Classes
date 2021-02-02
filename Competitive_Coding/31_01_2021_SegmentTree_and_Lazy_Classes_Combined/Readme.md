@@ -1,5 +1,6 @@
 # Study Materials
 - [Class Recording Segment Tree](https://drive.google.com/file/d/1YAzKzMI7nY6J_fjpEshsaSgvON7Z3Rcd/view?usp=sharing)
+- [Class Recording Lazy Propagation](https://drive.google.com/file/d/1fUyrlACgYgXQPj2IdOJzvNUU-LXdZMcb/view?usp=sharing)
 
 
 ## Tutorials
