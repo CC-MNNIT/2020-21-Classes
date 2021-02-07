@@ -51,6 +51,10 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Code Warriors Class 1](CodeWarrior/2020_09_22_CodeWarrior-Class-1)
 	- [Code Warriors Class 2](CodeWarrior/2020_09_26_CodeWarrior-Class-2)
 
+- First Year Competitive Programming Classes
+    - [Common Resource](First_Year_Competitive_Programming)
+    - [Class 1 (Modular Arith., GCD and Hashing)](./First_Year_Competitive_Programming/07_02_2021_Class_1)
+
 - Competitve Coding
 	- [Common Resource](Competitive_Coding)  
 	- [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)  
