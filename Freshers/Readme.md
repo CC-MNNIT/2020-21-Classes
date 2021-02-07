@@ -8,7 +8,7 @@ This section contains the codes, support links and other relevant materials for 
 - Install this [app](https://play.google.com/store/apps/details?id=com.dev334.litelo) from SMP and subscribe to our club for updates through notifications on mobile: [How to use](https://docs.google.com/document/d/1PRaDw6xXJZmZu8rUBwj1HR59xwQ28GeEWWshsHcWj5s/edit)
 
 ## Class Materials
-- Coding
+- Basics of C-Programming
 	- [C-Programming Class 1](2021-01-03_Class-1/)
     - [C-Programming Class 2](2021-01-09_Class-2/)
     - [C-Programming Class 3](2021-01-10_Class-3/)
@@ -18,6 +18,13 @@ This section contains the codes, support links and other relevant materials for 
     - [C-Programming Class 7](2021-01-24_Class-7/)
     - [C-Programming Class 8](2021-01-30_Class-8/)
     - [C-Programming Class 9](2021-01-31_Class-9/)
+    - [C-Programming Class 10](2021-02-06_Class-10/)
+
+- Competitive Programming
+
+- Java and OOPs
+
+- Web Development
 
 ## Common Resources
 - [Freshers Briefing PPT](https://drive.google.com/file/d/1S1byFdRAVlGhW0SnYN66FZvCHztBW7LQ/view?usp=sharing)
