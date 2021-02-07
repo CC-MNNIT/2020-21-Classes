@@ -5,6 +5,7 @@
 - [Modular Arithmetic and GCD PPT](./Modular%20Arithmetic.pdf)
 - [Basic Hashing PPT](./Basic%20Hashing.pdf)
 - [Hackerearth Tutorial](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/tutorial/)
+- [GCD Complexity Proof](https://leimao.github.io/blog/Euclidean-Algorithm/)
 
 ## Questions
 - [MARBELS](https://www.spoj.com/problems/MARBLES/)
