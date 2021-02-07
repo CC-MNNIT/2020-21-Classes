@@ -13,6 +13,7 @@
 - [Calculate The Power](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/calculate-the-power/description/)
 - [ZSUM](https://www.spoj.com/problems/ZSUM/)
 - [ENIGMATH](https://www.spoj.com/problems/ENIGMATH/)
+- [GCD2](https://www.spoj.com/problems/GCD2/)
 - [Max Occurrence](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/maximum-occurrence-9/)
 - [Winner](https://codeforces.com/problemset/problem/2/A)
 - [Highest Rating](https://www.hackerearth.com/practice/data-structures/hash-tables/basics-of-hash-tables/practice-problems/algorithm/highest-rating-f8ead57a/)
