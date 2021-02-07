@@ -21,7 +21,8 @@ This section contains the codes, support links and other relevant materials for 
     - [C-Programming Class 10](2021-02-06_Class-10/)
 
 - Competitive Programming
-
+    - [Common Resource](../First_Year_Competitive_Programming)
+    - [Class 1 (Modular Arith., GCD and Hashing)](../First_Year_Competitive_Programming/07_02_2021_Class_1)
 - Java and OOPs
 
 - Web Development
