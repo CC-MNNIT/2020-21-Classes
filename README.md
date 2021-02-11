@@ -55,6 +55,9 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
     - [Common Resource](First_Year_Competitive_Programming)
     - [Class 1 (Modular Arith., GCD and Hashing)](./First_Year_Competitive_Programming/07_02_2021_Class_1)
 
+- First Year Software Development
+	- [Java Class - 1](FirstYearJava/2021_02_11_Java-Class-1)
+
 - Competitve Coding
 	- [Common Resource](Competitive_Coding)  
 	- [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)  
@@ -131,6 +134,7 @@ Follow the [contribution guide](https://github.com/CC-MNNIT/2020-21-Classes/blob
 * [Arsh Singh](https://github.com/iosdev474)
 * [Anuj Modi](https://github.com/descifrado)
 * [Vivek Rathi](https://github.com/vivekrathi53)
+* [Shashwat Pandey](https://github.com/shashwat1998)
 
 ## Contact
 
