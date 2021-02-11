@@ -4,7 +4,7 @@
 </head>
 
 # MNNIT-Computer-Coding-Club
-<div align="center"><img src="./cclogo.png" height="200" width="250"/></div>
+<div align="center"><img src="./cclogo.png" height="200" width="200"/></div>
 
 This repository contains the codes, support links and other relevant materials for every class under Computer Coding Club, MNNIT Allahabad,Prayagraj.
 
@@ -33,8 +33,13 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 
 ## Resources
 
+### [Freshers 2020-21](Freshers/)
+
 - Avishkar 2020
 	- [Cyberquest](Cyberquest2020/)
+
+- Important Competetions and Events
+	- [GSoC Briefing](Events/)
 
 - Android Development
 	- [Common Resources](Android)
@@ -46,6 +51,10 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Code Warriors Class 1](CodeWarrior/2020_09_22_CodeWarrior-Class-1)
 	- [Code Warriors Class 2](CodeWarrior/2020_09_26_CodeWarrior-Class-2)
 
+- First Year Competitive Programming Classes
+    - [Common Resource](First_Year_Competitive_Programming)
+    - [Class 1 (Modular Arith., GCD and Hashing)](./First_Year_Competitive_Programming/07_02_2021_Class_1)
+
 - Competitve Coding
 	- [Common Resource](Competitive_Coding)  
 	- [Graph Class - 1](Competitive_Coding/25_06_2020_Graph_1)  
@@ -53,8 +62,13 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [DP Class - 2](Competitive_Coding/30_08_2020_DP_2)  
 	- [DP Class - 3](Competitive_Coding/13_09_2020_DP_3)  	
     - [Bitmask and Matrix Exponentiation](Competitive_Coding/20_09_2020_Bitmask_and_MatrixExponentiation)
-    - [Number Theory](Competitive_Coding/20_09_2020_Number_Theory)
-
+    - [Number Theory Revision](Competitive_Coding/20_09_2020_Number_Theory)
+    - [Graph Class - 2](Competitive_Coding/02_01_2021_Graph_2)
+    - [Graph Class - 3](Competitive_Coding/09_01_2021_Graph_3)
+    - [Graph Class - 4](Competitive_Coding/10_01_2021_Graph_4)
+    - [String Algorithms](Competitive_Coding/16_01_2021_String_Algorithms)
+    - [Segment Tree and Lazy Propagation Combined](Competitive_Coding/31_01_2021_SegmentTree_and_Lazy_Classes_Combined)
+    
 - Git And Github
 	- [Git Class - 1](Git_Github/2020_08_29_Git-Class-1)
 	- [Git Class - 2](Git_Github/2020_08_30_Git-Class-2)
@@ -68,6 +82,8 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Softablitz Class - 5](Java/2020_09_12_Java-Class-5)
 	- [Softablitz Class - 6](Java/2020_09_19_Java-Class-6)
 	- [Softablitz Class - 7](Java/2020_09_20_Java-Class-7)
+	- [Softablitz Class - 8](Java/2020_09_23_Java-Class-8)
+	- [Softablitz Class - 9](Java/2020_10_05_Java-Class-9)
 	- [Previous Year Problem Statements](Java/Softablitz%20Problem%20Statements)
 
 - Linux
@@ -78,6 +94,9 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 
 - Machine Learning
 	- [Logical Rhythm Class 1](ML/2020_08_31_LR-Class-1)
+
+- Revengg (CTF)
+	- [Revengg Class 1](Capture%20The%20Flag/2020_09_28_Revengg-Class-1)
 
 - Web Development
 	- [Installation Guide](WebD/Installation%20Guide.pdf)

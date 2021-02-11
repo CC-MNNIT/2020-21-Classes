@@ -55,3 +55,4 @@ Join our fb group for classes notification and other information.
 - [Sudhanshu Kumar](https://github.com/sudhanshu6324)
 - [Gaurav Kumar](https://github.com/ogauravm)
 - [Shubham Damani](https://github.com/shubhamdamani)
+- [Raj Garg](https://github.com/rrajgarg)

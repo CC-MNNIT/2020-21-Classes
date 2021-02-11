@@ -29,4 +29,8 @@
 - [Webster](PS_Webster.pdf)
 - [Droidrush](PS_Droidrush.pdf)
 - [Code Warrior](PS_Code-Warrior.pdf)
-- [Logical Rhythm]()
+- [Logical Rhythm](LR/)
+
+### Event Details
+
+- [Cyberquest Events PPT](Cyberquest%20PPT.pdf)
