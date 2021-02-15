@@ -23,8 +23,8 @@ This section contains the codes, support links and other relevant materials for 
 - Competitive Programming
     - [Common Resource](../First_Year_Competitive_Programming)
     - [Class 1 (Modular Arith., GCD and Hashing)](../First_Year_Competitive_Programming/07_02_2021_Class_1)
-    - [Class 2 (Sieve Algorithm, ETF, Linear and Binary Search)](./First_Year_Competitive_Programming/13_02_2021_Class_2)
-    - [Class 3 (Advanced Binary Search)](./First_Year_Competitive_Programming/14_02_2021_Class_3)
+    - [Class 2 (Sieve Algorithm, ETF, Linear and Binary Search)](../First_Year_Competitive_Programming/13_02_2021_Class_2)
+    - [Class 3 (Advanced Binary Search)](../First_Year_Competitive_Programming/14_02_2021_Class_3)
 
 - Java and OOPs
 
