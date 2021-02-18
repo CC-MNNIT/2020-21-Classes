@@ -1,0 +1,34 @@
+h1 {
+    color: blue;
+    font-size: 120px;
+}
+
+body {
+    background-color: wheat;
+}
+
+p {
+    color: brown;
+    font-size: 120px;
+}
+
+.textt {
+    color: red;
+}
+
+#fname {
+    color: blueviolet;
+}
+
+.myform {
+    color: green;
+    font-size: 100px;
+}
+
+.myform input {
+    border-color: blue;
+}
+
+.myform>p {
+    color: aqua;
+}
