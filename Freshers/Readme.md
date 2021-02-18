@@ -27,8 +27,8 @@ This section contains the codes, support links and other relevant materials for 
     - [Class 3 (Advanced Binary Search)](../First_Year_Competitive_Programming/14_02_2021_Class_3)
 
 - Java and OOPs
-    - [Java Class 1](2021-02-11-Java-Class-1/)
-    - [Java Class 2](2021-02-18-Java-Class-2/)
+    - [Java Class 1](../First_Year_Java/2021_02_11_Java-Class-1)
+    - [Java Class 2](../First_Year_Java/2021_02_18_Java-Class-2)
 
 - Web Development
 
