@@ -38,5 +38,3 @@
  - [Clever Programmer (Builds Amazing Real life Projects in hours)](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)  
  - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)  
  - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)  
- 
-I strongly suggest to subscribe these channels.
