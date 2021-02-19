@@ -397,3 +397,5 @@ class StaticByName {
     }
 }
 ```
+
+We encourage you to run the shared code and feel free to experiment with it. In case of any doubt just ping any of the co-ordinators we are always here to help :)
