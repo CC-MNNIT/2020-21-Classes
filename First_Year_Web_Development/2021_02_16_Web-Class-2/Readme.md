@@ -8,9 +8,10 @@
 
 ### Class Content
 - [Class PPT](Web_Development_Class_2.pdf)
-- [HTML and CSS Code](HTML_CSS_Code/)
+- [HTML and CSS Code](https://github.com/CC-MNNIT/2020-21-Classes/tree/master/First_Year_Web_Development/2021_02_16_Web-Class-2/HTML_CSS_Code)
 
 ### Resources
-- [Live Server Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer&fbclid=IwAR10r1_Z8is4NpJEOehC8qVHoqF436Pa9n7GIUKpk3koptHotmfGD1PIA4Q)
 - [W3Schools HTML Tutorial](https://www.w3schools.com/html/default.asp)
 - [W3Schools CSS Tutorial](https://www.w3schools.com/css/default.asp)
+- [Live Server Extension for VS Code](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer&fbclidIwAR10r1_Z8is4NpJEOehC8qVHoqF436Pa9n7GIUKpk3koptHotmfGD1PIA4Q)
+- [A Roadmap To Web Development](../)
