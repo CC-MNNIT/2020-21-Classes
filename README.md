@@ -58,7 +58,12 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
     - [Class 3 (Advanced Binary Search)](./First_Year_Competitive_Programming/14_02_2021_Class_3)
 
 - First Year Software Development
-	- [Java Class - 1](FirstYearJava/2021_02_11_Java-Class-1)
+	- [Java Class - 1](First_Year_Java/2021_02_11_Java-Class-1)
+	- [Java Class - 2](First_Year_Java/2021_02_18_Java-Class-2)
+
+- First Year Web Development
+	- [Web Class - 1](First_Year_Web_Development/2021_02_09_Web-Class-1)
+	- [Web Class - 2](First_Year_Web_Development/2021_02_16_Web-Class-2)
 
 - Competitve Coding
 	- [Common Resource](Competitive_Coding)  

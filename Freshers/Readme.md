@@ -31,6 +31,8 @@ This section contains the codes, support links and other relevant materials for 
     - [Java Class 2](../First_Year_Java/2021_02_18_Java-Class-2)
 
 - Web Development
+    - [Web Class 1](../First_Year_Web_Development/2021_02_09_Web-Class-1)
+    - [Web Class 2](../First_Year_Web_Development/2021_02_16_Web-Class-2)
 
 ## Common Resources
 - [Freshers Briefing PPT](https://drive.google.com/file/d/1S1byFdRAVlGhW0SnYN66FZvCHztBW7LQ/view?usp=sharing)
