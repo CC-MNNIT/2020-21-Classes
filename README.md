@@ -60,6 +60,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 - First Year Software Development
 	- [Java Class - 1](First_Year_Java/2021_02_11_Java-Class-1)
 	- [Java Class - 2](First_Year_Java/2021_02_18_Java-Class-2)
+	- [Java Class - 3](First_Year_Java/2021_02_20_Java-Class-3)
 
 - First Year Web Development
 	- [Web Class - 1](First_Year_Web_Development/2021_02_09_Web-Class-1)
