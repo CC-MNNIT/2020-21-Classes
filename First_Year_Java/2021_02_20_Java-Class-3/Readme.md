@@ -266,7 +266,7 @@ class PassObjRef {
 
 ## Resources
 
-- [Learning Resoruces](../../Java/Common%20Resources): Link to all books and online learning resoruces for Java
+- [Learning Resources](../../Java/Common%20Resources#resources): Link to all books and online learning resoruces for Java
 - [Softablitz 2k20 Classes](https://github.com/CC-MNNIT/2020-21-Classes/tree/master/Java): Softablitz is the software development event which targets building solutions for problem statements using Java.
 - [Git Basics Book](https://github.com/progit/progit2/releases/download/2.1.277/progit.pdf): Book to cover git basics. Getting well versed with git and github is important, you will use git in all your projects.
 

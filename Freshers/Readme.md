@@ -29,6 +29,7 @@ This section contains the codes, support links and other relevant materials for 
 - Java and OOPs
     - [Java Class 1](../First_Year_Java/2021_02_11_Java-Class-1)
     - [Java Class 2](../First_Year_Java/2021_02_18_Java-Class-2)
+    - [Java Class 3](../First_Year_Java/2021_02_20_Java-Class-3)
 
 - Web Development
     - [Web Class 1](../First_Year_Web_Development/2021_02_09_Web-Class-1)
