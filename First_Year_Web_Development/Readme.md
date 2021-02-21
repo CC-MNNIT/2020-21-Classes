@@ -9,7 +9,7 @@
  - [JS Tutorial 3](https://www.youtube.com/watch?v=PFmuCDHHpwk)
 
 ### Must Watch
- - [Video](https://www.youtube.com/watch?v=_8gHHBlbziw)
+ - [Async Javascript Tutorial (Callbacks, Promises, Async Await)](https://www.youtube.com/watch?v=_8gHHBlbziw)
 
 ### NodeJS
  - [freecodecamp.org Trust( 100% )](https://www.youtube.com/watch?v=RLtyhwFtXQA)
@@ -17,11 +17,16 @@
  - [NodeJS Tutorial 2](https://www.youtube.com/watch?v=TlB_eWDSMt4)
 
 ### Django
-
  - [Evergreen Official Documentation with each and every small detail](https://docs.djangoproject.com/en/3.1/)
  - [Django Girls Tutorial](https://tutorial.djangogirls.org/en/)
  - [Django Tutorials](https://youtube.com/playlist?list=PL-osiE80TeTtoQCKZ03TU5fNfx2UY6U4p)
  - [Django REST Tutorials](https://youtube.com/playlist?list=PLgCYzUzKIBE9Pi8wtx8g55fExDAPXBsbV)
+ 
+### React.js
+ - [Intro to React Tutorial](https://reactjs.org/tutorial/tutorial.html)
+ - [React JS Crash Course 2021](https://youtu.be/w7ejDZ8SWv8)
+ - [Redux Crash Course With React](https://youtu.be/93p3LxR9xfM)
+ - [React JS Video Tutorial for Beginners](https://youtube.com/playlist?list=PLC3y8-rFHvwgg3vaYJgHGnModB54rxOk3)
  
 ### Now Let's Build A project and API
 
@@ -35,6 +40,7 @@
  - [freecodecamp.org](https://www.youtube.com/channel/UC8butISFwT-Wl7EV0hUK0BQ)
  - [CodingWithMitch](https://www.youtube.com/channel/UCoNZZLhPuuRteu02rh7bzsw)  
  - [Web Dev Simplied](https://www.youtube.com/channel/UCFbNIlppjAuEX4znoulh0Cw)
+ - [Online Tutorials](https://www.youtube.com/channel/UCbwXnUipZsLfUckBPsC7Jog)
  - [Clever Programmer (Builds Amazing Real life Projects in hours)](https://www.youtube.com/channel/UCqrILQNl5Ed9Dz6CGMyvMTQ)  
  - [Programming with Mosh](https://www.youtube.com/channel/UCWv7vMbMWH4-V0ZXdmDpPBA)  
  - [The Net Ninja](https://www.youtube.com/channel/UCW5YeuERMmlnqo4oq8vwUpg)  

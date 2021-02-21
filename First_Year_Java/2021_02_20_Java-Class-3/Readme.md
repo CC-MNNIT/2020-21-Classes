@@ -5,12 +5,20 @@
 ## Table of Contents
 
 - [Class recording](#class-recording)
+- [Resources](#resources)
 - [Class content](#class-content)
-- [Resoruces](#resources)
 
 ## Class Recording
 
 ### [Combined Panel](https://drive.google.com/file/d/1FgNBbPW2YGqGnR2eZ59Je_x5I349kk65/view?usp=sharing)
+
+## Resources
+
+- [Learning Resources](../../Java/Common%20Resources#resources): Link to all books and online learning resoruces for Java.
+- [Softablitz 2k20 Classes](https://github.com/CC-MNNIT/2020-21-Classes/tree/master/Java): Softablitz is the software development event which targets building solutions for problem statements using Java.
+- [Git Basics Book](https://github.com/progit/progit2/releases/download/2.1.277/progit.pdf): Book to cover git basics. Getting well versed with git and github is important, you will use git in all your projects.
+
+>Explore as much as you can, go through all the recordings and resources. Wishing you all the best!!
 
 ## Class Content
 
@@ -264,10 +272,4 @@ class PassObjRef {
 
 > We encourage you to run the shared code and feel free to experiment with it. In case of any doubt just ping any of the co-ordinators we are always here to help :)
 
-## Resources
-
-- [Learning Resources](../../Java/Common%20Resources#resources): Link to all books and online learning resoruces for Java
-- [Softablitz 2k20 Classes](https://github.com/CC-MNNIT/2020-21-Classes/tree/master/Java): Softablitz is the software development event which targets building solutions for problem statements using Java.
-- [Git Basics Book](https://github.com/progit/progit2/releases/download/2.1.277/progit.pdf): Book to cover git basics. Getting well versed with git and github is important, you will use git in all your projects.
-
->Explore as much as you can, go through all the recordings and resouces. Wishing you all the best!!
+{% include disqus.html %}

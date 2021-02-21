@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <script src="https://code.jquery.com/jquery-2.2.4.min.js" integrity="sha256-BbhdlvQf/xTY9gja0Dq3HiwQF8LaCRTXxZKRutelT44=" crossorigin="anonymous"></script>
+</head>
+<style>
+    #container {
+        width: 400px;
+        height: 400px;
+        position: relative;
+        background: yellow;
+    }
+    
+    #animate {
+        width: 50px;
+        height: 50px;
+        position: absolute;
+        background-color: red;
+    }
+</style>
+
+<body>
+
+    <p><button onclick="myMove()">Click Me</button></p>
+
+    <div id="container">
+        <div id="animate"></div>
+    </div>
+    <div class="demo"></div>
+    <script>
+        var id = null;
+        $("#animate").fadeOut(10000)
+
+        function myMove() {
+            var elem = $("#animate");
+            var pos = 0;
+            clearInterval(id);
+            id = setInterval(frame, 5);
+
+            function frame() {
+                if (pos == 350) {
+                    clearInterval(id);
+                } else {
+                    pos++;
+                    elem.css({
+                        top: pos + "px"
+                    });
+                    elem.css({
+                        left: pos + "px"
+                    });
+                }
+            }
+        }
+
+
+
+        // var myVar = setInterval(myTimer, 1000);
+
+        // function myTimer() {
+        //     var d = new Date();
+        //     document.getElementById("demo").innerHTML = d.toLocaleTimeString();
+        // }
+    </script>
+
+</body>
+
+</html>
