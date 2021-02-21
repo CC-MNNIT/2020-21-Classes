@@ -1,0 +1,25 @@
+.main {
+    min-height: 100vh;
+    width: 100vw;
+    display: grid;
+    grid-template-rows: auto auto auto;
+    /* grid-template-columns: 1fr 1fr; */
+    border: 2px solid gold;
+}
+
+.header {
+    border: 2px solid blue;
+    height: 10vh;
+    grid-column: 1/3;
+}
+
+.content {
+    border: 2px solid green;
+    /* height: 10vh; */
+    grid-column: 1/3;
+}
+
+.footer {
+    border: 2px solid red;
+    height: 10vh;
+}

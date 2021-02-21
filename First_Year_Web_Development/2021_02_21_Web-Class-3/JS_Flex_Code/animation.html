@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <style>
+        #myDIV {
+            width: 300px;
+            height: 200px;
+            background: red;
+            animation: mymove 5s infinite;
+        }
+        
+        @keyframes mymove {
+            from {
+                transform: rotate(0deg);
+                background-color: red;
+            }
+            to {
+                transform: rotate(360deg);
+                background-color: blue;
+            }
+        }
+    </style>
+</head>
+
+<body>
+    <h1>Animation of background-color</h1>
+
+    <p>Gradually change the background-color from red to blue:
+
+        <div id="myDIV"></div>
+
+        <p><strong>Note:</strong> CSS Animations do not work in Internet Explorer 9 and earlier versions.</p>
+
+</body>
+
+</html>

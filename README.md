@@ -65,6 +65,7 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 - First Year Web Development
 	- [Web Class - 1](First_Year_Web_Development/2021_02_09_Web-Class-1)
 	- [Web Class - 2](First_Year_Web_Development/2021_02_16_Web-Class-2)
+	- [Web Class - 3](First_Year_Web_Development/2021_02_21_Web-Class-3)
 
 - Competitve Coding
 	- [Common Resource](Competitive_Coding)  
