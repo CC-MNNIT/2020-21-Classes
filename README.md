@@ -35,6 +35,8 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 
 ### [Freshers 2020-21](Freshers/)
 
+### [Hack 36 4.0](Hack36/)
+
 - Avishkar 2020
 	- [Cyberquest](Cyberquest2020/)
 
