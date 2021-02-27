@@ -20,21 +20,21 @@ This section contains the codes, support links and other relevant materials for 
     - [C-Programming Class 9](2021-01-31_Class-9/)
     - [C-Programming Class 10](2021-02-06_Class-10/)
 
-- Competitive Programming
-    - [Common Resource](../First_Year_Competitive_Programming)
-    - [Class 1 (Modular Arith., GCD and Hashing)](../First_Year_Competitive_Programming/07_02_2021_Class_1)
-    - [Class 2 (Sieve Algorithm, ETF, Linear and Binary Search)](../First_Year_Competitive_Programming/13_02_2021_Class_2)
-    - [Class 3 (Advanced Binary Search)](../First_Year_Competitive_Programming/14_02_2021_Class_3)
+- Competitive Programming Freshers\First_Year_Competitive_Programming
+    - [Common Resource](First_Year_Competitive_Programming)
+    - [Class 1 (Modular Arith., GCD and Hashing)](First_Year_Competitive_Programming/07_02_2021_Class_1)
+    - [Class 2 (Sieve Algorithm, ETF, Linear and Binary Search)](First_Year_Competitive_Programming/13_02_2021_Class_2)
+    - [Class 3 (Advanced Binary Search)](First_Year_Competitive_Programming/14_02_2021_Class_3)
 
 - Java and OOPs
-    - [Java Class 1](../First_Year_Java/2021_02_11_Java-Class-1)
-    - [Java Class 2](../First_Year_Java/2021_02_18_Java-Class-2)
-    - [Java Class 3](../First_Year_Java/2021_02_20_Java-Class-3)
+    - [Java Class 1](First_Year_Java/2021_02_11_Java-Class-1)
+    - [Java Class 2](First_Year_Java/2021_02_18_Java-Class-2)
+    - [Java Class 3](First_Year_Java/2021_02_20_Java-Class-3)
 
 - Web Development
-    - [Web Class 1](../First_Year_Web_Development/2021_02_09_Web-Class-1)
-    - [Web Class 2](../First_Year_Web_Development/2021_02_16_Web-Class-2)
-    - [Web Class 3](../First_Year_Web_Development/2021_02_21_Web-Class-3)
+    - [Web Class 1](First_Year_Web_Development/2021_02_09_Web-Class-1)
+    - [Web Class 2](First_Year_Web_Development/2021_02_16_Web-Class-2)
+    - [Web Class 3](First_Year_Web_Development/2021_02_21_Web-Class-3)
 
 ## Common Resources
 - [Freshers Briefing PPT](https://drive.google.com/file/d/1S1byFdRAVlGhW0SnYN66FZvCHztBW7LQ/view?usp=sharing)
