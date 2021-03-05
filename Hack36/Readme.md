@@ -2,6 +2,28 @@
 
 <div align="center"><img src="./logo-1.png" height="336" width="595"/></div>
 
+# Registrations Open Now!!!
+
+## [Register Here](https://www.hack36.com/)
+
+### How to register?
+<ol>
+	<li> <a href="https://guide.devfolio.co/hackers/devfolio-profile">Create a profile on</a> <a href="https://devfolio.co">Devfolio</a></li>
+	<li> Search for "Hack 36 4.0" on <a href="https://devfolio.co/hackathons">Devfolio</a> or head-on to <a href="https://hack36.com">hack36.com</a></li>
+	<li> <a href="https://guide.devfolio.co/hackers/participate/create-join-a-team">Create/Join a team</a></li>
+	<li> <a href="https://guide.devfolio.co/hackers/participate/applying-to-online-with-application-review-hackathons">Submit your application for review</a></li>
+</ol>
+
+### Note:
+- Do not submit your application individually
+- Create a team of 2-4 participants
+- Cross college teams are allowed
+- Cross year teams are allowed
+- No branch restriction
+- No year restriction
+- All UG and PG students are allowed
+- [More FAQs](https://www.hack36.com)
+
 ### Freshers Briefing
 - [Briefing PPT](Hack36_4.0Details.pdf)
 
