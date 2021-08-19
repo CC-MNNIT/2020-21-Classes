@@ -54,20 +54,20 @@ If you are a part of MNNIT join us on Microsoft Team [MNNIT CC Queries Official]
 	- [Code Warriors Class 2](CodeWarrior/2020_09_26_CodeWarrior-Class-2)
 
 - First Year Competitive Programming Classes
-    - [Common Resource](First_Year_Competitive_Programming)
-    - [Class 1 (Modular Arith., GCD and Hashing)](./First_Year_Competitive_Programming/07_02_2021_Class_1)
-    - [Class 2 (Sieve Algorithm, ETF, Linear and Binary Search)](./First_Year_Competitive_Programming/13_02_2021_Class_2)
-    - [Class 3 (Advanced Binary Search)](./First_Year_Competitive_Programming/14_02_2021_Class_3)
+    - [Common Resource](Freshers/First_Year_Competitive_Programming)
+    - [Class 1 (Modular Arith., GCD and Hashing)](Freshers/First_Year_Competitive_Programming/07_02_2021_Class_1)
+    - [Class 2 (Sieve Algorithm, ETF, Linear and Binary Search)](Freshers/First_Year_Competitive_Programming/13_02_2021_Class_2)
+    - [Class 3 (Advanced Binary Search)](Freshers/First_Year_Competitive_Programming/14_02_2021_Class_3)
 
 - First Year Software Development
-	- [Java Class - 1](First_Year_Java/2021_02_11_Java-Class-1)
-	- [Java Class - 2](First_Year_Java/2021_02_18_Java-Class-2)
-	- [Java Class - 3](First_Year_Java/2021_02_20_Java-Class-3)
+	- [Java Class - 1](Freshers/First_Year_Java/2021_02_11_Java-Class-1)
+	- [Java Class - 2](Freshers/First_Year_Java/2021_02_18_Java-Class-2)
+	- [Java Class - 3](Freshers/First_Year_Java/2021_02_20_Java-Class-3)
 
 - First Year Web Development
-	- [Web Class - 1](First_Year_Web_Development/2021_02_09_Web-Class-1)
-	- [Web Class - 2](First_Year_Web_Development/2021_02_16_Web-Class-2)
-	- [Web Class - 3](First_Year_Web_Development/2021_02_21_Web-Class-3)
+	- [Web Class - 1](Freshers/First_Year_Web_Development/2021_02_09_Web-Class-1)
+	- [Web Class - 2](Freshers/First_Year_Web_Development/2021_02_16_Web-Class-2)
+	- [Web Class - 3](Freshers/First_Year_Web_Development/2021_02_21_Web-Class-3)
 
 - Competitve Coding
 	- [Common Resource](Competitive_Coding)  
